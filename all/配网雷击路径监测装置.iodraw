@@ -625,7 +625,7 @@
           <mxGeometry x="1195" y="1106" width="567" height="334" as="geometry" />
         </mxCell>
         <mxCell id="GItIuOtd4jm5fzECmszH-6" value="&lt;span style=&quot;font-size: 24px&quot;&gt;高速高分影像处理单元&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="684" y="1945" width="169" height="203" as="geometry" />
+          <mxGeometry x="686" y="2001" width="169" height="91" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
