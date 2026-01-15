@@ -260,7 +260,7 @@
           <mxGeometry x="281.5" y="1568" width="149" height="52" as="geometry" />
         </mxCell>
         <mxCell id="X89sO_WCtFvhKcQO0o-N-5" value="&lt;span style=&quot;font-size: 24px&quot;&gt;实时处理单元&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="824" y="1549" width="199.5" height="90" as="geometry" />
+          <mxGeometry x="824" y="1562" width="199.5" height="77" as="geometry" />
         </mxCell>
         <mxCell id="d-vX-y888_JuYhINsKZi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;strokeColor=#97D077;" parent="1" source="X89sO_WCtFvhKcQO0o-N-8" target="X89sO_WCtFvhKcQO0o-N-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -625,7 +625,7 @@
           <mxGeometry x="1195" y="1106" width="567" height="334" as="geometry" />
         </mxCell>
         <mxCell id="GItIuOtd4jm5fzECmszH-6" value="&lt;span style=&quot;font-size: 24px&quot;&gt;高速高分影像处理单元&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="686" y="2001" width="169" height="91" as="geometry" />
+          <mxGeometry x="713.5" y="1444" width="169" height="91" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
