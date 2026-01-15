@@ -661,7 +661,7 @@
         <mxCell id="XoIGYuCidCCzW1O4SqDs-17" value="外部触发源" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="2998.5" y="2510" width="120" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="XoIGYuCidCCzW1O4SqDs-21" value="光电触发接入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="XoIGYuCidCCzW1O4SqDs-21" value="AOV" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="2610.5" y="2343" width="120" height="53" as="geometry" />
         </mxCell>
       </root>
