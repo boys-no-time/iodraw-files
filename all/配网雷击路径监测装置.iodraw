@@ -346,7 +346,7 @@
         <mxCell id="d-vX-y888_JuYhINsKZi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;strokeColor=#66CC00;strokeWidth=4;" parent="1" source="X89sO_WCtFvhKcQO0o-N-31" target="X89sO_WCtFvhKcQO0o-N-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X89sO_WCtFvhKcQO0o-N-31" value="GNS串口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="X89sO_WCtFvhKcQO0o-N-31" value="GNSS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="1005" y="1226" width="96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d-vX-y888_JuYhINsKZi-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;strokeColor=#6c8ebf;strokeWidth=4;fillColor=#dae8fc;" parent="1" source="X89sO_WCtFvhKcQO0o-N-32" target="X89sO_WCtFvhKcQO0o-N-31" edge="1">
