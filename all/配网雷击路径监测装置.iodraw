@@ -355,7 +355,7 @@
         <mxCell id="d-vX-y888_JuYhINsKZi-53" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;startArrow=classicThin;startFill=1;strokeColor=#66CC00;strokeWidth=4;" parent="1" source="X89sO_WCtFvhKcQO0o-N-36" target="d-vX-y888_JuYhINsKZi-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GItIuOtd4jm5fzECmszH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;curved=0;strokeWidth=3;" edge="1" parent="1" source="X89sO_WCtFvhKcQO0o-N-36" target="d-vX-y888_JuYhINsKZi-46">
+        <mxCell id="GItIuOtd4jm5fzECmszH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=3;" edge="1" parent="1" source="X89sO_WCtFvhKcQO0o-N-36" target="d-vX-y888_JuYhINsKZi-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X89sO_WCtFvhKcQO0o-N-36" value="&lt;font style=&quot;font-size: 24px&quot;&gt;RJ45 * 4&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=19;" parent="1" vertex="1">
