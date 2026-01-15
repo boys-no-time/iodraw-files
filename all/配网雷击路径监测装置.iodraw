@@ -642,7 +642,7 @@
           <mxGeometry x="2720" y="2327" width="119" height="45" as="geometry" />
         </mxCell>
         <mxCell id="XoIGYuCidCCzW1O4SqDs-12" value="网络通信" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontSize=19;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2545" y="2194" width="120" height="53" as="geometry" />
+          <mxGeometry x="2561" y="2293" width="120" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
