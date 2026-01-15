@@ -632,8 +632,8 @@
         <mxCell id="XoIGYuCidCCzW1O4SqDs-6" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;顶端AOV相机&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="2079" y="2440" width="195" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="XoIGYuCidCCzW1O4SqDs-9" value="&lt;span style=&quot;font-size: 24px&quot;&gt;实时处理单元&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="2920.5" y="2495" width="199.5" height="90" as="geometry" />
+        <mxCell id="XoIGYuCidCCzW1O4SqDs-9" value="休眠唤醒控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="2952" y="2528" width="168" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
