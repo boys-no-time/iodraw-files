@@ -419,7 +419,7 @@
           <mxGeometry x="278" y="1775" width="162" height="65" as="geometry" />
         </mxCell>
         <mxCell id="d-vX-y888_JuYhINsKZi-59" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="115" y="2024" width="352" height="563" as="geometry" />
+          <mxGeometry x="193" y="1375" width="352" height="563" as="geometry" />
         </mxCell>
         <mxCell id="d-vX-y888_JuYhINsKZi-61" value="&lt;span style=&quot;font-size: 32px&quot;&gt;&lt;b&gt;相机镜头传感器模块&lt;/b&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="220" y="1880" width="304" height="24" as="geometry" />
