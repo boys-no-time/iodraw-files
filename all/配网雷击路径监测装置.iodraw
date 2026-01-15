@@ -614,6 +614,9 @@
         <mxCell id="XoIGYuCidCCzW1O4SqDs-2" value="&lt;span style=&quot;font-size: 24px&quot;&gt;核心计算平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="2475" y="2343" width="416" height="259" as="geometry" />
         </mxCell>
+        <mxCell id="XoIGYuCidCCzW1O4SqDs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="XoIGYuCidCCzW1O4SqDs-3" target="XoIGYuCidCCzW1O4SqDs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XoIGYuCidCCzW1O4SqDs-3" value="&lt;span style=&quot;font-size: 24px&quot;&gt;镜头封装&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="2091" y="2530" width="162" height="65" as="geometry" />
         </mxCell>
