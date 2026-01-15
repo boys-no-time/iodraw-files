@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="PmO_SZysGhwk3cofujjI" name="第 1 页">
-    <mxGraphModel dx="2231" dy="1367" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3905" dy="2393" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -622,9 +622,6 @@
         </mxCell>
         <mxCell id="XoIGYuCidCCzW1O4SqDs-4" value="&lt;span style=&quot;font-size: 24px&quot;&gt;90°环视MIPI&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;相机*4&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="2086" y="2330" width="181" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="XoIGYuCidCCzW1O4SqDs-5" value="&lt;span style=&quot;font-size: 32px&quot;&gt;&lt;b&gt;相机镜头模块&lt;/b&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="2727" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XoIGYuCidCCzW1O4SqDs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;curved=0;strokeWidth=3;" edge="1" parent="1" source="XoIGYuCidCCzW1O4SqDs-6" target="XoIGYuCidCCzW1O4SqDs-2">
           <mxGeometry relative="1" as="geometry" />
