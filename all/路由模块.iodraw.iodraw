@@ -1,0 +1,182 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="6gEmMhAh7GDy7tKteb4h" name="第 1 页">
+    <mxGraphModel dx="1562" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;外网4G&lt;/b&gt;&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.broadcast;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#97D077;" parent="1" vertex="1">
+          <mxGeometry x="490" y="790" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-3" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;路由&lt;/b&gt;&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/router.svg;" parent="1" vertex="1">
+          <mxGeometry x="680" y="800" width="65.79" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-4" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;内置服务&lt;/b&gt;&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;" parent="1" vertex="1">
+          <mxGeometry x="806" y="640" width="68" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.577;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3V7lImFq7sT3MdPfMl9l-6" target="3V7lImFq7sT3MdPfMl9l-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.566;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3V7lImFq7sT3MdPfMl9l-6" target="3V7lImFq7sT3MdPfMl9l-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.571;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3V7lImFq7sT3MdPfMl9l-6" target="3V7lImFq7sT3MdPfMl9l-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.571;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3V7lImFq7sT3MdPfMl9l-6" target="3V7lImFq7sT3MdPfMl9l-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="600" />
+              <mxPoint x="960" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="3V7lImFq7sT3MdPfMl9l-6" target="3V7lImFq7sT3MdPfMl9l-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3V7lImFq7sT3MdPfMl9l-6" target="3V7lImFq7sT3MdPfMl9l-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.008;entryY=0.541;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3V7lImFq7sT3MdPfMl9l-6" target="3V7lImFq7sT3MdPfMl9l-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.011;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3V7lImFq7sT3MdPfMl9l-6" target="3V7lImFq7sT3MdPfMl9l-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.012;entryY=0.59;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3V7lImFq7sT3MdPfMl9l-6" target="3V7lImFq7sT3MdPfMl9l-51" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.496;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3V7lImFq7sT3MdPfMl9l-6" target="3V7lImFq7sT3MdPfMl9l-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.009;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3V7lImFq7sT3MdPfMl9l-6" target="3V7lImFq7sT3MdPfMl9l-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3V7lImFq7sT3MdPfMl9l-6" target="3V7lImFq7sT3MdPfMl9l-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.531;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3V7lImFq7sT3MdPfMl9l-6" target="3V7lImFq7sT3MdPfMl9l-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.498;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3V7lImFq7sT3MdPfMl9l-6" target="3V7lImFq7sT3MdPfMl9l-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.021;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3V7lImFq7sT3MdPfMl9l-6" target="3V7lImFq7sT3MdPfMl9l-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="480" y="640" width="720" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-7" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;防火墙&lt;/b&gt;&lt;/font&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Web_App_Firewall.svg;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="920" y="790" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-10" value="&lt;font style=&quot;font-size: 16px&quot;&gt;WEB UI&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="560" y="520" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-13" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;内置APP&lt;/b&gt;&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.app;fillColor=#3399FF;" parent="1" vertex="1">
+          <mxGeometry x="806" y="920" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-14" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;内网ETH&lt;/b&gt;&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/active_directory.svg;fillColor=#3399FF;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="793.75" width="73.53" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-17" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;远程管理&lt;/b&gt;&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="680" y="520" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-18" value="&lt;font style=&quot;font-size: 16px&quot;&gt;NTP&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="800" y="520" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-19" value="&lt;font style=&quot;font-size: 16px&quot;&gt;VPN&lt;br&gt;&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="920" y="520" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-20" value="&lt;font style=&quot;font-size: 16px&quot;&gt;SSH&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="520" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-26" value="&lt;font style=&quot;font-size: 16px&quot;&gt;2/3/4/5G，网通制式自动切换&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="240" y="680" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-27" value="&lt;font style=&quot;font-size: 16px&quot;&gt;APN，鉴权，账户密码&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="240" y="880" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-28" value="&lt;font style=&quot;font-size: 16px&quot;&gt;网络状态、流量统计&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="240" y="960" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-34" value="&lt;font style=&quot;font-size: 16px&quot;&gt;WAN/LAN/VPN&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;strokeColor=#9673a6;fillColor=#FFCCFF;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1080" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-35" value="&lt;font style=&quot;font-size: 16px&quot;&gt;静态路由&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;strokeColor=#9673a6;fillColor=#FFCCFF;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1120" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-36" value="&lt;font style=&quot;font-size: 16px&quot;&gt;主机路由&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;strokeColor=#9673a6;fillColor=#FFCCFF;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1160" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-40" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.412;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="3V7lImFq7sT3MdPfMl9l-34" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="890" as="sourcePoint" />
+            <mxPoint x="420" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-41" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;4G拨号&lt;/b&gt;&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="760" y="1080" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-42" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;内网管理&lt;/b&gt;&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="850" y="1080" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-43" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;网络管理&lt;/b&gt;&lt;/span&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="760" y="1120" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-44" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;日志管理&lt;/b&gt;&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="850" y="1120" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-45" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;AT指令&lt;/b&gt;&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="760" y="1160" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-46" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;固件升级厂测&lt;/b&gt;&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="850" y="1160" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-47" value="&lt;font style=&quot;font-size: 16px&quot;&gt;端口MAC/IP过滤&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;strokeColor=#9673a6;fillColor=#FFCCFF;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="1080" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-48" value="&lt;font style=&quot;font-size: 16px&quot;&gt;端口映射、转发&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;strokeColor=#9673a6;fillColor=#FFCCFF;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="1120" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-49" value="&lt;font style=&quot;font-size: 16px&quot;&gt;DMZ&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;strokeColor=#9673a6;fillColor=#FFCCFF;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="1160" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-50" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="870" as="sourcePoint" />
+            <mxPoint x="1250" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-51" value="&lt;font style=&quot;font-size: 16px&quot;&gt;有线LAN*2、网络配置&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="680" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-52" value="&lt;font style=&quot;font-size: 16px&quot;&gt;DHCP&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="760" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-53" value="&lt;font style=&quot;font-size: 16px&quot;&gt;网络状态、流量统计&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="960" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-54" value="&lt;font style=&quot;font-size: 16px&quot;&gt;内网IP设置、内网穿透&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="880" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-62" value="&lt;span style=&quot;font-size: 16px&quot;&gt;网页设置界面&lt;br&gt;设备状态、配置、管理&lt;br&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="380" y="525" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-63" value="&lt;font style=&quot;font-size: 16px&quot;&gt;SNTP时间同步&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="770" y="490" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-64" value="&lt;font style=&quot;font-size: 16px&quot;&gt;计划任务&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="675" y="490" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-65" value="&lt;font style=&quot;font-size: 16px&quot;&gt;心跳包配置&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.icon;fontSize=8;buttonText=;whiteSpace=wrap;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="240" y="760" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3V7lImFq7sT3MdPfMl9l-67" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Telnet远程登录&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="490" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
