@@ -328,7 +328,7 @@
         <mxCell id="X89sO_WCtFvhKcQO0o-N-25" value="&lt;font style=&quot;font-size: 22px&quot;&gt;双发&lt;br&gt;USR&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="722" y="1226" width="98" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="GItIuOtd4jm5fzECmszH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="X89sO_WCtFvhKcQO0o-N-29" target="X89sO_WCtFvhKcQO0o-N-36">
+        <mxCell id="GItIuOtd4jm5fzECmszH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;startArrow=block;startFill=1;strokeWidth=2;" edge="1" parent="1" source="X89sO_WCtFvhKcQO0o-N-29" target="X89sO_WCtFvhKcQO0o-N-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="930" y="1194" />
