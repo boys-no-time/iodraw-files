@@ -639,7 +639,7 @@
           <mxGeometry x="2719" y="2396" width="120" height="53" as="geometry" />
         </mxCell>
         <mxCell id="XoIGYuCidCCzW1O4SqDs-11" value="&lt;span style=&quot;font-size: 24px&quot;&gt;电池仓&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2936" y="2325" width="139" height="51" as="geometry" />
+          <mxGeometry x="2722.5" y="2323" width="116.5" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
