@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="PmO_SZysGhwk3cofujjI" name="第 1 页">
-    <mxGraphModel dx="5983" dy="798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="6912" dy="1367" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -364,15 +364,7 @@
         <mxCell id="d-vX-y888_JuYhINsKZi-53" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;startArrow=classicThin;startFill=1;strokeColor=#66CC00;strokeWidth=4;" parent="1" source="X89sO_WCtFvhKcQO0o-N-36" target="d-vX-y888_JuYhINsKZi-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GItIuOtd4jm5fzECmszH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=3;fillColor=#60a917;strokeColor=#66cc00;" edge="1" parent="1" source="d-vX-y888_JuYhINsKZi-62" target="d-vX-y888_JuYhINsKZi-46">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1475" y="1251" />
-              <mxPoint x="1475" y="1316" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X89sO_WCtFvhKcQO0o-N-36" value="&lt;font style=&quot;font-size: 24px&quot;&gt;RJ45 * 4&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="X89sO_WCtFvhKcQO0o-N-36" value="&lt;font style=&quot;font-size: 24px&quot;&gt;RJ45 * 4&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1240" y="1189" width="170" height="83" as="geometry" />
         </mxCell>
         <mxCell id="d-vX-y888_JuYhINsKZi-8" value="&lt;span style=&quot;font-size: 24px&quot;&gt;通信板&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;4G通信与网络&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
@@ -613,13 +605,6 @@
         </mxCell>
         <mxCell id="d-vX-y888_JuYhINsKZi-124" value="&lt;span style=&quot;font-size: 24px&quot;&gt;激光雷达外设&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="2616.5" y="1651" width="170" height="83" as="geometry" />
-        </mxCell>
-        <mxCell id="GItIuOtd4jm5fzECmszH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=3;fillColor=#60a917;strokeColor=#66cc00;" edge="1" parent="1" source="X89sO_WCtFvhKcQO0o-N-36" target="d-vX-y888_JuYhINsKZi-62">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1410" y="1251" as="sourcePoint" />
-            <mxPoint x="1540" y="1316" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="d-vX-y888_JuYhINsKZi-62" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1356" y="733" width="567" height="334" as="geometry" />
