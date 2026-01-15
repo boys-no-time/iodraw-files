@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="PmO_SZysGhwk3cofujjI" name="第 1 页">
-    <mxGraphModel dx="3471" dy="2127" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1953" dy="1196" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -638,8 +638,8 @@
         <mxCell id="XoIGYuCidCCzW1O4SqDs-10" value="供电系统管理监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=19;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="2719" y="2396" width="120" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="XoIGYuCidCCzW1O4SqDs-11" value="&lt;span style=&quot;font-size: 24px&quot;&gt;电池组&lt;br&gt;12.8V 50AH&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="4209.5" y="1616" width="170" height="120" as="geometry" />
+        <mxCell id="XoIGYuCidCCzW1O4SqDs-11" value="&lt;span style=&quot;font-size: 24px&quot;&gt;电池组&lt;br&gt;12.8V 50AH&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3143" y="2428" width="149.5" height="77" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
