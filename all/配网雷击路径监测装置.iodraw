@@ -405,12 +405,12 @@
           <mxGeometry x="578" y="1347" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d-vX-y888_JuYhINsKZi-45" value="&lt;span style=&quot;font-size: 24px&quot;&gt;其他外设&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1540" y="1357" width="170" height="83" as="geometry" />
+          <mxGeometry x="1540" y="1357" width="199" height="83" as="geometry" />
         </mxCell>
         <mxCell id="d-vX-y888_JuYhINsKZi-46" value="&lt;span style=&quot;font-size: 24px&quot;&gt;雷电预警定位&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1540" y="1274" width="197" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="d-vX-y888_JuYhINsKZi-52" value="&lt;span style=&quot;font-size: 24px&quot;&gt;RJ45航插&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="d-vX-y888_JuYhINsKZi-52" value="&lt;span style=&quot;font-size: 24px&quot;&gt;RJ45航插&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1540" y="1189" width="199" height="83" as="geometry" />
         </mxCell>
         <mxCell id="d-vX-y888_JuYhINsKZi-55" value="&lt;span style=&quot;font-size: 24px&quot;&gt;镜头加热&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" parent="1" vertex="1">
