@@ -618,7 +618,7 @@
         <mxCell id="GItIuOtd4jm5fzECmszH-6" value="&lt;span style=&quot;font-size: 24px&quot;&gt;高速高分影像处理单元&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="713.5" y="1444" width="169" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="XoIGYuCidCCzW1O4SqDs-2" value="&lt;span style=&quot;font-size: 24px&quot;&gt;实时处理单元&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="XoIGYuCidCCzW1O4SqDs-2" value="&lt;span style=&quot;font-size: 24px&quot;&gt;核心计算平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="2008" y="2477" width="170" height="120" as="geometry" />
         </mxCell>
       </root>
