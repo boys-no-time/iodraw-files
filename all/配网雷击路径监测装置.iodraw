@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="PmO_SZysGhwk3cofujjI" name="第 1 页">
-    <mxGraphModel dx="3124" dy="1914" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3905" dy="2393" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -486,13 +486,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d-vX-y888_JuYhINsKZi-85" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;strokeColor=#FF0000;strokeWidth=4;" parent="1" source="d-vX-y888_JuYhINsKZi-86" target="d-vX-y888_JuYhINsKZi-119" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3666.5" y="1880" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="d-vX-y888_JuYhINsKZi-86" value="&lt;span style=&quot;font-size: 24px&quot;&gt;电源板&lt;br&gt;供电管理与监控&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="3575.5" y="1484" width="182.5" height="90" as="geometry" />
         </mxCell>
@@ -620,6 +613,15 @@
         </mxCell>
         <mxCell id="XoIGYuCidCCzW1O4SqDs-2" value="&lt;span style=&quot;font-size: 24px&quot;&gt;核心计算平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="2008" y="2477" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XoIGYuCidCCzW1O4SqDs-3" value="&lt;span style=&quot;font-size: 24px&quot;&gt;镜头加热&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="2723" y="2150" width="162" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="XoIGYuCidCCzW1O4SqDs-4" value="&lt;span style=&quot;font-size: 24px&quot;&gt;镜头雨刷&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="2723" y="2215" width="162" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="XoIGYuCidCCzW1O4SqDs-5" value="&lt;span style=&quot;font-size: 32px&quot;&gt;&lt;b&gt;相机镜头模块&lt;/b&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="2696" y="2295" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
