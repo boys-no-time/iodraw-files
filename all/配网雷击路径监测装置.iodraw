@@ -621,7 +621,7 @@
           <mxGeometry x="2091" y="2530" width="162" height="65" as="geometry" />
         </mxCell>
         <mxCell id="XoIGYuCidCCzW1O4SqDs-4" value="&lt;span style=&quot;font-size: 24px&quot;&gt;90°环视MIPI&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;相机*4&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="2086" y="2330" width="181" height="82" as="geometry" />
+          <mxGeometry x="2109" y="2330" width="158" height="82" as="geometry" />
         </mxCell>
         <mxCell id="XoIGYuCidCCzW1O4SqDs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;curved=0;strokeWidth=3;startArrow=classic;startFill=1;" edge="1" parent="1" source="XoIGYuCidCCzW1O4SqDs-6" target="XoIGYuCidCCzW1O4SqDs-2">
           <mxGeometry relative="1" as="geometry" />
