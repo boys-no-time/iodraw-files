@@ -1101,7 +1101,7 @@
         <mxCell id="CJCZ_S4h4HP9tILn4Vaj-106" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.999;entryY=0.675;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=3;strokeColor=#FF0000;entryPerimeter=0;" parent="1" source="CJCZ_S4h4HP9tILn4Vaj-104" target="CJCZ_S4h4HP9tILn4Vaj-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CJCZ_S4h4HP9tILn4Vaj-104" value="&lt;span style=&quot;font-size: 18px&quot;&gt;云台航插&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CJCZ_S4h4HP9tILn4Vaj-104" value="&lt;span style=&quot;font-size: 18px&quot;&gt;云台航插&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-3189" y="227" width="115" height="39" as="geometry" />
         </mxCell>
         <mxCell id="CJCZ_S4h4HP9tILn4Vaj-107" value="5V" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -1291,7 +1291,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="j0a0ZaWx9G9dSN1j3Rzp-334" value="&lt;span style=&quot;font-size: 18px&quot;&gt;毫米波雷达航插&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="j0a0ZaWx9G9dSN1j3Rzp-334" value="&lt;span style=&quot;font-size: 18px&quot;&gt;毫米波雷达航插&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-3222" y="515.5" width="146" height="39" as="geometry" />
         </mxCell>
         <mxCell id="j0a0ZaWx9G9dSN1j3Rzp-338" value="&lt;span style=&quot;font-size: 18px&quot;&gt;SD卡存储&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1308,7 +1308,7 @@
         <mxCell id="20JfpAd1YQwoWzo6Mb93-1" value="&lt;span style=&quot;font-size: 18px&quot;&gt;4G模组&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3169" y="359" width="79" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="20JfpAd1YQwoWzo6Mb93-2" value="&lt;span style=&quot;font-size: 18px&quot;&gt;4G天线&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="20JfpAd1YQwoWzo6Mb93-2" value="&lt;span style=&quot;font-size: 18px&quot;&gt;4G天线&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-3013" y="359" width="79" height="39" as="geometry" />
         </mxCell>
         <mxCell id="20JfpAd1YQwoWzo6Mb93-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;SD卡加密&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1320,7 +1320,7 @@
         <mxCell id="20JfpAd1YQwoWzo6Mb93-12" value="&lt;span style=&quot;font-size: 18px&quot;&gt;GNSS模组&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3309" y="462" width="92" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="20JfpAd1YQwoWzo6Mb93-13" value="&lt;span style=&quot;font-size: 18px&quot;&gt;GNSS天线&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="20JfpAd1YQwoWzo6Mb93-13" value="&lt;span style=&quot;font-size: 18px&quot;&gt;GNSS天线&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-3038" y="463" width="113" height="39" as="geometry" />
         </mxCell>
         <mxCell id="20JfpAd1YQwoWzo6Mb93-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;curved=0;strokeWidth=3;" parent="1" source="20JfpAd1YQwoWzo6Mb93-16" target="CJCZ_S4h4HP9tILn4Vaj-42" edge="1">
