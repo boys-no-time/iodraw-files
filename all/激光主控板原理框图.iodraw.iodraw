@@ -1323,6 +1323,9 @@
         <mxCell id="20JfpAd1YQwoWzo6Mb93-13" value="&lt;span style=&quot;font-size: 18px&quot;&gt;GNSS天线&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3038" y="463" width="113" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="20JfpAd1YQwoWzo6Mb93-16" value="&lt;span style=&quot;font-size: 18px&quot;&gt;ADB调试&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3020.5" y="565" width="94" height="39" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
