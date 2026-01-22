@@ -995,10 +995,7 @@
         <mxCell id="CJCZ_S4h4HP9tILn4Vaj-51" value="SPK P/N" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-3661" y="685" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="j0a0ZaWx9G9dSN1j3Rzp-336" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;" parent="1" source="CJCZ_S4h4HP9tILn4Vaj-52" target="j0a0ZaWx9G9dSN1j3Rzp-334" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CJCZ_S4h4HP9tILn4Vaj-52" value="CAN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="CJCZ_S4h4HP9tILn4Vaj-52" value="I2C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-3471" y="685" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CJCZ_S4h4HP9tILn4Vaj-53" value="RTC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
