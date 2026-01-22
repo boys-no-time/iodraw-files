@@ -959,7 +959,7 @@
         <mxCell id="20JfpAd1YQwoWzo6Mb93-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=0;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="CJCZ_S4h4HP9tILn4Vaj-42" target="j0a0ZaWx9G9dSN1j3Rzp-334">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CJCZ_S4h4HP9tILn4Vaj-42" value="CAN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="CJCZ_S4h4HP9tILn4Vaj-42" value="CAN*2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-3411" y="505" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CJCZ_S4h4HP9tILn4Vaj-105" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=3;strokeColor=#97D077;" parent="1" source="CJCZ_S4h4HP9tILn4Vaj-43" target="CJCZ_S4h4HP9tILn4Vaj-104" edge="1">
@@ -1323,7 +1323,7 @@
         <mxCell id="20JfpAd1YQwoWzo6Mb93-13" value="&lt;span style=&quot;font-size: 18px&quot;&gt;GNSS天线&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3038" y="463" width="113" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="20JfpAd1YQwoWzo6Mb93-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="20JfpAd1YQwoWzo6Mb93-16" target="CJCZ_S4h4HP9tILn4Vaj-42">
+        <mxCell id="20JfpAd1YQwoWzo6Mb93-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;curved=0;strokeWidth=3;" edge="1" parent="1" source="20JfpAd1YQwoWzo6Mb93-16" target="CJCZ_S4h4HP9tILn4Vaj-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-3287" y="585" />
