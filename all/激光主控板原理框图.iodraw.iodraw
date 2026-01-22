@@ -977,6 +977,9 @@
         <mxCell id="CJCZ_S4h4HP9tILn4Vaj-46" value="MAC/&lt;br&gt;SPI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-3411" y="415" width="40" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="20JfpAd1YQwoWzo6Mb93-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CJCZ_S4h4HP9tILn4Vaj-47" target="20JfpAd1YQwoWzo6Mb93-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CJCZ_S4h4HP9tILn4Vaj-47" value="SDIO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-3411" y="566" width="40" height="79" as="geometry" />
         </mxCell>
@@ -1292,7 +1295,7 @@
           <mxGeometry x="-3013" y="359" width="79" height="39" as="geometry" />
         </mxCell>
         <mxCell id="20JfpAd1YQwoWzo6Mb93-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;SD卡存储&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3262" y="667" width="115" height="39" as="geometry" />
+          <mxGeometry x="-3263" y="606" width="115" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
