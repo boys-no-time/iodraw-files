@@ -974,6 +974,9 @@
         <mxCell id="CJCZ_S4h4HP9tILn4Vaj-45" value="USB2.0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-3411" y="343" width="40" height="71" as="geometry" />
         </mxCell>
+        <mxCell id="20JfpAd1YQwoWzo6Mb93-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="CJCZ_S4h4HP9tILn4Vaj-46" target="20JfpAd1YQwoWzo6Mb93-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CJCZ_S4h4HP9tILn4Vaj-46" value="UART" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-3411" y="415" width="40" height="90" as="geometry" />
         </mxCell>
@@ -1315,7 +1318,7 @@
           <mxGeometry x="-3309" y="462" width="92" height="39" as="geometry" />
         </mxCell>
         <mxCell id="20JfpAd1YQwoWzo6Mb93-13" value="&lt;span style=&quot;font-size: 18px&quot;&gt;GNSS天线&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3047" y="459.5" width="113" height="39" as="geometry" />
+          <mxGeometry x="-3045" y="459.5" width="113" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
