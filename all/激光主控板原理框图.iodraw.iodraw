@@ -1102,7 +1102,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CJCZ_S4h4HP9tILn4Vaj-104" value="&lt;span style=&quot;font-size: 18px&quot;&gt;云台航插（4芯）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-3189" y="227" width="115" height="39" as="geometry" />
+          <mxGeometry x="-3216" y="227" width="142" height="39" as="geometry" />
         </mxCell>
         <mxCell id="CJCZ_S4h4HP9tILn4Vaj-107" value="5V" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-3661" y="233" width="85" height="40" as="geometry" />
@@ -1292,7 +1292,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j0a0ZaWx9G9dSN1j3Rzp-334" value="&lt;span style=&quot;font-size: 18px&quot;&gt;毫米波雷达航插&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-3222" y="515.5" width="146" height="39" as="geometry" />
+          <mxGeometry x="-3222" y="515.5" width="212" height="39" as="geometry" />
         </mxCell>
         <mxCell id="j0a0ZaWx9G9dSN1j3Rzp-338" value="&lt;span style=&quot;font-size: 18px&quot;&gt;SD卡存储&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3263" y="666" width="115" height="39" as="geometry" />
