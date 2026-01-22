@@ -1114,7 +1114,7 @@
           <mxGeometry x="-3187" y="293" width="115" height="39" as="geometry" />
         </mxCell>
         <mxCell id="CJCZ_S4h4HP9tILn4Vaj-112" value="&lt;span style=&quot;font-size: 18px&quot;&gt;ADB调试&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3188" y="359" width="115" height="39" as="geometry" />
+          <mxGeometry x="-3176.5" y="418" width="94" height="39" as="geometry" />
         </mxCell>
         <mxCell id="j0a0ZaWx9G9dSN1j3Rzp-261" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-3841" y="1245" width="160" height="300" as="geometry" />
@@ -1278,7 +1278,7 @@
           <mxGeometry x="-3263" y="666" width="115" height="39" as="geometry" />
         </mxCell>
         <mxCell id="20JfpAd1YQwoWzo6Mb93-1" value="&lt;span style=&quot;font-size: 18px&quot;&gt;4G模组&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3169" y="423.5" width="79" height="39" as="geometry" />
+          <mxGeometry x="-3054" y="359" width="79" height="39" as="geometry" />
         </mxCell>
         <mxCell id="20JfpAd1YQwoWzo6Mb93-2" value="&lt;span style=&quot;font-size: 18px&quot;&gt;4G天线&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2903" y="843" width="79" height="39" as="geometry" />
