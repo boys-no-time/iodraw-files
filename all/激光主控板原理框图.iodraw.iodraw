@@ -1066,7 +1066,7 @@
         <mxCell id="CJCZ_S4h4HP9tILn4Vaj-78" value="&lt;span style=&quot;font-size: 18px&quot;&gt;PHY&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3995.34" y="578.5" width="167" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="CJCZ_S4h4HP9tILn4Vaj-80" value="&lt;span style=&quot;font-size: 18px&quot;&gt;RJ45航插&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="CJCZ_S4h4HP9tILn4Vaj-80" value="&lt;span style=&quot;font-size: 18px&quot;&gt;RJ45航插&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-4213" y="578.5" width="137.66" height="39" as="geometry" />
         </mxCell>
         <mxCell id="CJCZ_S4h4HP9tILn4Vaj-89" value="&lt;span&gt;RGMII&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
