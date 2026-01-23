@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="IJM556epn4KSd806lVO7" name="第 1 页">
-    <mxGraphModel dx="5527" dy="2045" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="6288" dy="2511" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1359,7 +1359,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="adQ0lLlTutspe5t1BzoM-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;防外破任务仓&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2339" y="1059.5" width="129" height="50" as="geometry" />
+          <mxGeometry x="-2339" y="1071" width="129" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="adQ0lLlTutspe5t1BzoM-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;激光/毫米波通用算力平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-1870" y="1088" width="184" height="133" as="geometry" />
