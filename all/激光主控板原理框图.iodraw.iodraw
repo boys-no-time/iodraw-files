@@ -1364,14 +1364,11 @@
         <mxCell id="adQ0lLlTutspe5t1BzoM-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;激光/毫米波通用算力平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-1870" y="1088" width="184" height="133" as="geometry" />
         </mxCell>
+        <mxCell id="adQ0lLlTutspe5t1BzoM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="adQ0lLlTutspe5t1BzoM-11" target="adQ0lLlTutspe5t1BzoM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="adQ0lLlTutspe5t1BzoM-11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;导线舞动任务仓&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2340" y="1239" width="141" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="adQ0lLlTutspe5t1BzoM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.235;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;curved=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2217.9999999999995" y="1274.6" as="sourcePoint" />
-            <mxPoint x="-2032.3449999999998" y="1203.005" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
