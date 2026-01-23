@@ -1403,6 +1403,9 @@
         <mxCell id="D2X9Gxv8jlePAkfWY_B5-11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;导线舞动任务仓&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-2316" y="1444.5" width="141" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="D2X9Gxv8jlePAkfWY_B5-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;镜头结构&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2684" y="1246" width="110" height="44" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
