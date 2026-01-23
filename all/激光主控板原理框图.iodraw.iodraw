@@ -1389,7 +1389,7 @@
           <mxGeometry x="-1560" y="1174.5" width="190" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="D2X9Gxv8jlePAkfWY_B5-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;风光供电&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-1534" y="1445.25" width="190" height="38.5" as="geometry" />
+          <mxGeometry x="-1512" y="1418" width="120" height="38.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
