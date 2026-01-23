@@ -1376,6 +1376,9 @@
         <mxCell id="D2X9Gxv8jlePAkfWY_B5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="D2X9Gxv8jlePAkfWY_B5-1" target="D2X9Gxv8jlePAkfWY_B5-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="D2X9Gxv8jlePAkfWY_B5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D2X9Gxv8jlePAkfWY_B5-1" target="D2X9Gxv8jlePAkfWY_B5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D2X9Gxv8jlePAkfWY_B5-1" value="供电与通信管理基座" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-1861" y="1418" width="177" height="93" as="geometry" />
         </mxCell>
@@ -1392,7 +1395,7 @@
           <mxGeometry x="-1560" y="1174.5" width="190" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="D2X9Gxv8jlePAkfWY_B5-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;风光供电&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-1528" y="1424" width="120" height="38.5" as="geometry" />
+          <mxGeometry x="-1525" y="1423" width="120" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="D2X9Gxv8jlePAkfWY_B5-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;风光供电&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-1531" y="1470.75" width="120" height="38.5" as="geometry" />
