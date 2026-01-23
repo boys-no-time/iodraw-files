@@ -1337,7 +1337,7 @@
         <mxCell id="adQ0lLlTutspe5t1BzoM-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;激光&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="-839.25" width="320" height="122.5" as="geometry" />
         </mxCell>
-        <mxCell id="adQ0lLlTutspe5t1BzoM-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;激光/毫米波通用计算平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="adQ0lLlTutspe5t1BzoM-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;嵌入式边缘计算通用平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-2015" y="1088" width="331" height="423" as="geometry" />
         </mxCell>
         <mxCell id="adQ0lLlTutspe5t1BzoM-3" value="融合数据测量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
