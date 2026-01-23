@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="IJM556epn4KSd806lVO7" name="第 1 页">
-    <mxGraphModel dx="6753" dy="2796" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="6158" dy="2432" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1341,7 +1341,7 @@
           <mxGeometry x="-2015" y="1088" width="331" height="423" as="geometry" />
         </mxCell>
         <mxCell id="adQ0lLlTutspe5t1BzoM-3" value="GPIO / I2C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1930" y="1178" width="165" height="40" as="geometry" />
+          <mxGeometry x="-2015" y="1088" width="80" height="133" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
