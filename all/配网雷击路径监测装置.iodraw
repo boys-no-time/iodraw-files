@@ -674,7 +674,10 @@
           <mxGeometry x="2826" y="110" width="403.5" height="289" as="geometry" />
         </mxCell>
         <mxCell id="usxZiG5PrlI7wBR7N1Vk-4" value="EC20模组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="3339.5" y="93" width="112" height="50" as="geometry" />
+          <mxGeometry x="3117.5" y="170" width="112" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="usxZiG5PrlI7wBR7N1Vk-5" value="GPS串口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="3357.5" y="1276" width="96" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
