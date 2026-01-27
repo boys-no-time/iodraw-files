@@ -1548,12 +1548,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="28IKBqVIUGHTFJAn7_wo-56" value="&lt;span style=&quot;font-size: 18px&quot;&gt;4G&amp;nbsp; 1200mA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1497" y="552" width="144" height="39" as="geometry" />
+          <mxGeometry x="-1492" y="552" width="144" height="39" as="geometry" />
         </mxCell>
         <mxCell id="28IKBqVIUGHTFJAn7_wo-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;curved=0;" edge="1" parent="1" source="28IKBqVIUGHTFJAn7_wo-58" target="28IKBqVIUGHTFJAn7_wo-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28IKBqVIUGHTFJAn7_wo-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;" edge="1" parent="1" source="28IKBqVIUGHTFJAn7_wo-58" target="28IKBqVIUGHTFJAn7_wo-63">
+        <mxCell id="28IKBqVIUGHTFJAn7_wo-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;curved=0;" edge="1" parent="1" source="28IKBqVIUGHTFJAn7_wo-58" target="28IKBqVIUGHTFJAn7_wo-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="28IKBqVIUGHTFJAn7_wo-58" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.manual_switch;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;strokeWidth=2;" vertex="1" parent="1">
@@ -1570,7 +1570,7 @@
         <mxCell id="28IKBqVIUGHTFJAn7_wo-62" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;DC-DC&amp;nbsp; 3.3V/3A&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1633.4968855168272" y="524.9983864182691" width="97" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="28IKBqVIUGHTFJAn7_wo-63" value="&lt;span style=&quot;font-size: 18px&quot;&gt;4G&amp;nbsp; 1200mA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28IKBqVIUGHTFJAn7_wo-63" value="&lt;span style=&quot;font-size: 18px&quot;&gt;USB PHY&amp;nbsp; 1200mA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1492" y="608" width="144" height="39" as="geometry" />
         </mxCell>
       </root>
