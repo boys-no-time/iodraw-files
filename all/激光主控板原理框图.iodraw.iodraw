@@ -1486,7 +1486,7 @@
           <mxGeometry x="-2163.996885516827" y="563.9983864182691" width="97" height="27" as="geometry" />
         </mxCell>
         <mxCell id="28IKBqVIUGHTFJAn7_wo-32" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;载板外设5V&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1829" y="658" width="119" height="39" as="geometry" />
+          <mxGeometry x="-1832.5" y="658" width="119" height="39" as="geometry" />
         </mxCell>
         <mxCell id="28IKBqVIUGHTFJAn7_wo-35" value="V2&lt;span style=&quot;background-color: initial;&quot;&gt;+12V&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-2221" y="565" width="61" height="26" as="geometry" />
