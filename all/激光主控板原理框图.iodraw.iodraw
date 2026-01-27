@@ -1588,10 +1588,10 @@
         <mxCell id="28IKBqVIUGHTFJAn7_wo-70" value="&lt;span style=&quot;font-size: 18px&quot;&gt;RJ45 ETH&amp;nbsp; 200mA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1488" y="787" width="144" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="28IKBqVIUGHTFJAn7_wo-74" value="&lt;span style=&quot;font-size: 18px&quot;&gt;SD&amp;nbsp; 100mA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28IKBqVIUGHTFJAn7_wo-74" value="&lt;span style=&quot;font-size: 18px&quot;&gt;SD&amp;nbsp; 80mA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1488" y="852" width="148" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="28IKBqVIUGHTFJAn7_wo-75" value="&lt;span style=&quot;font-size: 18px&quot;&gt;SD&amp;nbsp; 100mA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28IKBqVIUGHTFJAn7_wo-75" value="&lt;span style=&quot;font-size: 18px&quot;&gt;CAN&amp;nbsp; 100mA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1488" y="917" width="148" height="39" as="geometry" />
         </mxCell>
       </root>
