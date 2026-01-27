@@ -1628,8 +1628,8 @@
         <mxCell id="28IKBqVIUGHTFJAn7_wo-82" value="&lt;span style=&quot;font-size: 18px&quot;&gt;传感器外设 30mA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1859.5" y="932" width="159.5" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="28IKBqVIUGHTFJAn7_wo-86" value="&lt;span style=&quot;font-size: 18px&quot;&gt;镜头加热&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1859.5" y="1002" width="110" height="44" as="geometry" />
+        <mxCell id="28IKBqVIUGHTFJAn7_wo-86" value="&lt;span style=&quot;font-size: 18px&quot;&gt;镜头加热 500mA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1859.5" y="1002" width="160.5" height="44" as="geometry" />
         </mxCell>
         <mxCell id="28IKBqVIUGHTFJAn7_wo-88" value="V3&lt;span style=&quot;background-color: initial;&quot;&gt;+12V&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-2246" y="812" width="61" height="26" as="geometry" />
