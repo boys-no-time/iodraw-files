@@ -1467,7 +1467,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="28IKBqVIUGHTFJAn7_wo-25" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.manual_switch;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2000" y="636" width="70" height="20" as="geometry" />
+          <mxGeometry x="-2006" y="612" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
