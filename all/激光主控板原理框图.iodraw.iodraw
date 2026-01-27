@@ -998,7 +998,7 @@
         <mxCell id="CJCZ_S4h4HP9tILn4Vaj-49" value="WDG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-3701" y="374" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CJCZ_S4h4HP9tILn4Vaj-50" value="PWM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="CJCZ_S4h4HP9tILn4Vaj-50" value="I2C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-3700" y="636" width="39" height="89" as="geometry" />
         </mxCell>
         <mxCell id="CJCZ_S4h4HP9tILn4Vaj-51" value="SPK P/N" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -1291,7 +1291,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="j0a0ZaWx9G9dSN1j3Rzp-334" value="&lt;span style=&quot;font-size: 18px&quot;&gt;毫米波雷达航插（4芯）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="j0a0ZaWx9G9dSN1j3Rzp-334" value="&lt;span style=&quot;font-size: 18px&quot;&gt;毫米波雷达航插（7芯）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-3222" y="515.5" width="212" height="39" as="geometry" />
         </mxCell>
         <mxCell id="j0a0ZaWx9G9dSN1j3Rzp-338" value="&lt;span style=&quot;font-size: 18px&quot;&gt;SD卡存储&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
