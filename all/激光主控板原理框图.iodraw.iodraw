@@ -1467,6 +1467,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="28IKBqVIUGHTFJAn7_wo-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="28IKBqVIUGHTFJAn7_wo-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1874.441860465116" y="658.7674418604652" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="28IKBqVIUGHTFJAn7_wo-23" value="&lt;span style=&quot;font-size: 18px&quot;&gt;RV1126B模组&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2056" y="587" width="164.5" height="39" as="geometry" />
         </mxCell>
