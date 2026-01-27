@@ -1480,6 +1480,9 @@
         <mxCell id="28IKBqVIUGHTFJAn7_wo-35" value="V2&lt;span style=&quot;background-color: initial;&quot;&gt;+12V&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-2221" y="565" width="61" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="28IKBqVIUGHTFJAn7_wo-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.48;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="28IKBqVIUGHTFJAn7_wo-23" target="28IKBqVIUGHTFJAn7_wo-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
