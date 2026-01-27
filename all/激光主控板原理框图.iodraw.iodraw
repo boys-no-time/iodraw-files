@@ -1421,9 +1421,6 @@
         <mxCell id="28IKBqVIUGHTFJAn7_wo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fa6800;strokeColor=#C73500;curved=0;strokeWidth=3;" edge="1" parent="1" source="28IKBqVIUGHTFJAn7_wo-4" target="28IKBqVIUGHTFJAn7_wo-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28IKBqVIUGHTFJAn7_wo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fa6800;strokeColor=#C73500;curved=0;strokeWidth=3;" edge="1" parent="1" source="28IKBqVIUGHTFJAn7_wo-4" target="28IKBqVIUGHTFJAn7_wo-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="28IKBqVIUGHTFJAn7_wo-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;12V供电系统&lt;/font&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;电源EMC设计&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2459" y="608" width="320" height="174" as="geometry" />
         </mxCell>
@@ -1443,7 +1440,7 @@
           <mxGeometry x="-1728" y="590" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="28IKBqVIUGHTFJAn7_wo-17" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.manual_switch;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2273" y="423" width="70" height="20" as="geometry" />
+          <mxGeometry x="-2139" y="415" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
