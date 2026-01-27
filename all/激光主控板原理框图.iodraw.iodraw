@@ -1442,6 +1442,9 @@
         <mxCell id="28IKBqVIUGHTFJAn7_wo-13" value="V1+12V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-1728" y="564" width="61" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="28IKBqVIUGHTFJAn7_wo-16" value="V1+12V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1728" y="590" width="61" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
