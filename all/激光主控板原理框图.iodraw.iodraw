@@ -1609,8 +1609,12 @@
         <mxCell id="28IKBqVIUGHTFJAn7_wo-78" value="&lt;span style=&quot;font-size: 18px&quot;&gt;GNSS&amp;nbsp; 200mA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1486" y="979" width="148" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="28IKBqVIUGHTFJAn7_wo-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="28IKBqVIUGHTFJAn7_wo-81" target="28IKBqVIUGHTFJAn7_wo-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="28IKBqVIUGHTFJAn7_wo-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="28IKBqVIUGHTFJAn7_wo-81" target="28IKBqVIUGHTFJAn7_wo-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2254" y="836" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="28IKBqVIUGHTFJAn7_wo-81" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.manual_switch;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2160" y="816" width="70" height="20" as="geometry" />
