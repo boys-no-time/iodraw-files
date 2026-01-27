@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="IJM556epn4KSd806lVO7" name="第 1 页">
-    <mxGraphModel dx="5789" dy="2210" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="6487" dy="2640" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1435,7 +1435,7 @@
         <mxCell id="28IKBqVIUGHTFJAn7_wo-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;云台航插（7芯）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1836" y="533" width="142" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="28IKBqVIUGHTFJAn7_wo-10" value="&lt;span style=&quot;font-size: 18px&quot;&gt;毫米波雷达&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28IKBqVIUGHTFJAn7_wo-10" value="&lt;span style=&quot;font-size: 18px&quot;&gt;毫米波雷达&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-1807.5" y="411" width="110" height="44" as="geometry" />
         </mxCell>
         <mxCell id="28IKBqVIUGHTFJAn7_wo-13" value="V1+12V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
@@ -1628,7 +1628,7 @@
         <mxCell id="28IKBqVIUGHTFJAn7_wo-82" value="&lt;span style=&quot;font-size: 18px&quot;&gt;传感器外设 30mA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1859.5" y="932" width="159.5" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="28IKBqVIUGHTFJAn7_wo-86" value="&lt;span style=&quot;font-size: 18px&quot;&gt;镜头加热 500mA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28IKBqVIUGHTFJAn7_wo-86" value="&lt;span style=&quot;font-size: 18px&quot;&gt;镜头加热 500mA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-1859.5" y="1002" width="160.5" height="44" as="geometry" />
         </mxCell>
         <mxCell id="28IKBqVIUGHTFJAn7_wo-88" value="V3&lt;span style=&quot;background-color: initial;&quot;&gt;+12V&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
