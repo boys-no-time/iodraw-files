@@ -1470,7 +1470,7 @@
         <mxCell id="28IKBqVIUGHTFJAn7_wo-23" value="&lt;span style=&quot;font-size: 18px&quot;&gt;RV1126B模组&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2056" y="587" width="164.5" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="28IKBqVIUGHTFJAn7_wo-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="28IKBqVIUGHTFJAn7_wo-25" target="28IKBqVIUGHTFJAn7_wo-32">
+        <mxCell id="28IKBqVIUGHTFJAn7_wo-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;curved=0;" edge="1" parent="1" source="28IKBqVIUGHTFJAn7_wo-25" target="28IKBqVIUGHTFJAn7_wo-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1939" y="698" />
