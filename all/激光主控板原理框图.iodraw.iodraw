@@ -1517,7 +1517,7 @@
           <mxGeometry x="-1969.9968855168272" y="757.9983864182691" width="97" height="27" as="geometry" />
         </mxCell>
         <mxCell id="28IKBqVIUGHTFJAn7_wo-50" value="&lt;span style=&quot;font-size: 18px&quot;&gt;RS485&amp;nbsp; 200mA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1497" y="690.75" width="148" height="39" as="geometry" />
+          <mxGeometry x="-1492" y="725" width="148" height="39" as="geometry" />
         </mxCell>
         <mxCell id="28IKBqVIUGHTFJAn7_wo-51" value="&lt;span style=&quot;font-size: 18px&quot;&gt;mipi相机&amp;nbsp; 300mA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1497" y="634.25" width="144" height="39" as="geometry" />
@@ -1532,7 +1532,8 @@
         <mxCell id="28IKBqVIUGHTFJAn7_wo-55" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;curved=0;" edge="1" parent="1" source="28IKBqVIUGHTFJAn7_wo-52" target="28IKBqVIUGHTFJAn7_wo-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1595" y="710" />
+              <mxPoint x="-1595" y="745" />
+              <mxPoint x="-1492" y="745" />
             </Array>
           </mxGeometry>
         </mxCell>
