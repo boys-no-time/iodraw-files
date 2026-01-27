@@ -1507,8 +1507,8 @@
         <mxCell id="28IKBqVIUGHTFJAn7_wo-45" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;载板外设3.3V&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1864" y="752" width="119" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="28IKBqVIUGHTFJAn7_wo-47" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;载板外设3.3V&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1863" y="753" width="119" height="39" as="geometry" />
+        <mxCell id="28IKBqVIUGHTFJAn7_wo-47" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;载板外设1.8V&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1864" y="842" width="119" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
