@@ -1546,6 +1546,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="28IKBqVIUGHTFJAn7_wo-56" value="&lt;span style=&quot;font-size: 18px&quot;&gt;mipi相机&amp;nbsp; 300mA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1497" y="552" width="144" height="39" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
