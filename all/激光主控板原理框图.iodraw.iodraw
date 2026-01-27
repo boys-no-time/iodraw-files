@@ -1619,7 +1619,7 @@
         <mxCell id="28IKBqVIUGHTFJAn7_wo-81" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.manual_switch;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2160" y="816" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="28IKBqVIUGHTFJAn7_wo-82" value="&lt;span style=&quot;font-size: 18px&quot;&gt;毫米波雷达&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28IKBqVIUGHTFJAn7_wo-82" value="&lt;span style=&quot;font-size: 18px&quot;&gt;传感器外设&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1859.5" y="932" width="110" height="44" as="geometry" />
         </mxCell>
       </root>
