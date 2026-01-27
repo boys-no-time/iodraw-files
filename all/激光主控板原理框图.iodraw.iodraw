@@ -1625,8 +1625,8 @@
         <mxCell id="28IKBqVIUGHTFJAn7_wo-82" value="&lt;span style=&quot;font-size: 18px&quot;&gt;传感器外设&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1859.5" y="932" width="110" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="28IKBqVIUGHTFJAn7_wo-86" value="&lt;span style=&quot;font-size: 18px&quot;&gt;传感器外设&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1858.5" y="933" width="110" height="44" as="geometry" />
+        <mxCell id="28IKBqVIUGHTFJAn7_wo-86" value="&lt;span style=&quot;font-size: 18px&quot;&gt;镜头加热&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1859.5" y="1002" width="110" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
