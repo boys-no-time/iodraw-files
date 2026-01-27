@@ -1465,6 +1465,9 @@
         <mxCell id="28IKBqVIUGHTFJAn7_wo-23" value="&lt;span style=&quot;font-size: 18px&quot;&gt;RV1126B模组&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2056" y="587" width="164.5" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="28IKBqVIUGHTFJAn7_wo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="28IKBqVIUGHTFJAn7_wo-25" target="28IKBqVIUGHTFJAn7_wo-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="28IKBqVIUGHTFJAn7_wo-25" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.manual_switch;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2008.75" y="658" width="70" height="20" as="geometry" />
         </mxCell>
@@ -1472,7 +1475,7 @@
           <mxGeometry x="-2163.996885516827" y="563.9983864182691" width="97" height="27" as="geometry" />
         </mxCell>
         <mxCell id="28IKBqVIUGHTFJAn7_wo-32" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;载板外设5V&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1703" y="667" width="119" height="39" as="geometry" />
+          <mxGeometry x="-1853" y="646" width="119" height="39" as="geometry" />
         </mxCell>
         <mxCell id="28IKBqVIUGHTFJAn7_wo-35" value="V2&lt;span style=&quot;background-color: initial;&quot;&gt;+12V&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-2221" y="565" width="61" height="26" as="geometry" />
