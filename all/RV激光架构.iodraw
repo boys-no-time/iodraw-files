@@ -1363,17 +1363,17 @@
         <mxCell id="4i3hxFqDiJTiCVF9MgOw-12" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;航插接口，电源+RS485&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="-1849" width="332" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="4i3hxFqDiJTiCVF9MgOw-13" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;供电箱&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4i3hxFqDiJTiCVF9MgOw-13" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;供电系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="978" y="-1705" width="267" height="179" as="geometry" />
         </mxCell>
         <mxCell id="4i3hxFqDiJTiCVF9MgOw-15" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Diagnostics_Settings.svg;" vertex="1" parent="1">
-          <mxGeometry x="1556" y="-1298" width="150.46" height="180" as="geometry" />
+          <mxGeometry x="1039" y="-2057" width="150.46" height="180" as="geometry" />
         </mxCell>
         <mxCell id="4i3hxFqDiJTiCVF9MgOw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=4;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="4i3hxFqDiJTiCVF9MgOw-16" target="4i3hxFqDiJTiCVF9MgOw-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4i3hxFqDiJTiCVF9MgOw-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="-1942" width="184" height="224" as="geometry" />
+          <mxGeometry x="1019.5" y="-2079" width="184" height="224" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
