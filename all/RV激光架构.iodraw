@@ -1401,10 +1401,13 @@
           <mxGeometry x="-862" y="-2694" width="130" height="122" as="geometry" />
         </mxCell>
         <mxCell id="4i3hxFqDiJTiCVF9MgOw-26" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 32px;&quot;&gt;可视化&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 32px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;camera&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-613" y="-2735" width="138" height="98" as="geometry" />
+          <mxGeometry x="-637" y="-2727" width="138" height="98" as="geometry" />
         </mxCell>
         <mxCell id="4i3hxFqDiJTiCVF9MgOw-27" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;800万主摄&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;可选光学变焦&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-672" y="-2625" width="226" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="4i3hxFqDiJTiCVF9MgOw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.923;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4i3hxFqDiJTiCVF9MgOw-5" target="4i3hxFqDiJTiCVF9MgOw-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
