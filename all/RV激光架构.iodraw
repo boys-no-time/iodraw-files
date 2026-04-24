@@ -1367,13 +1367,13 @@
           <mxGeometry x="978" y="-1705" width="267" height="179" as="geometry" />
         </mxCell>
         <mxCell id="4i3hxFqDiJTiCVF9MgOw-15" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Diagnostics_Settings.svg;" vertex="1" parent="1">
-          <mxGeometry x="1044" y="-2110" width="150.46" height="180" as="geometry" />
+          <mxGeometry x="1556" y="-1298" width="150.46" height="180" as="geometry" />
         </mxCell>
         <mxCell id="4i3hxFqDiJTiCVF9MgOw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=4;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="4i3hxFqDiJTiCVF9MgOw-16" target="4i3hxFqDiJTiCVF9MgOw-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4i3hxFqDiJTiCVF9MgOw-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1024" y="-2127" width="184" height="224" as="geometry" />
+          <mxGeometry x="1400" y="-1942" width="184" height="224" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
