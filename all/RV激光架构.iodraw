@@ -1357,8 +1357,8 @@
         <mxCell id="4i3hxFqDiJTiCVF9MgOw-11" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;航插接口&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="644" y="-2613" width="119" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="4i3hxFqDiJTiCVF9MgOw-12" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;航插接口&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="645" y="-2612" width="119" height="87" as="geometry" />
+        <mxCell id="4i3hxFqDiJTiCVF9MgOw-12" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;航插接口，电源+RS485&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="489" y="-1853" width="276" height="87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
