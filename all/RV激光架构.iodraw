@@ -1367,7 +1367,10 @@
           <mxGeometry x="978" y="-1705" width="267" height="179" as="geometry" />
         </mxCell>
         <mxCell id="4i3hxFqDiJTiCVF9MgOw-15" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Diagnostics_Settings.svg;" vertex="1" parent="1">
-          <mxGeometry x="665" y="-1625" width="56.00000000000001" height="67" as="geometry" />
+          <mxGeometry x="1082" y="-1949" width="86.93" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="4i3hxFqDiJTiCVF9MgOw-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1036" y="-2009" width="184" height="224" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
