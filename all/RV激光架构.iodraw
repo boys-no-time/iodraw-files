@@ -1379,7 +1379,7 @@
           <mxGeometry x="1159" y="-2829" width="175" height="79" as="geometry" />
         </mxCell>
         <mxCell id="4i3hxFqDiJTiCVF9MgOw-19" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.camera;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-212" y="-2497" width="79.5" height="79.5" as="geometry" />
+          <mxGeometry x="17" y="-1868" width="175" height="178" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
