@@ -1341,10 +1341,10 @@
           <mxGeometry x="-510.07000000000016" y="-2100" width="920.13" height="645" as="geometry" />
         </mxCell>
         <mxCell id="4i3hxFqDiJTiCVF9MgOw-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="828" y="-2619" width="188" height="188" as="geometry" />
+          <mxGeometry x="732" y="-2711" width="188" height="188" as="geometry" />
         </mxCell>
-        <mxCell id="4i3hxFqDiJTiCVF9MgOw-9" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="566" y="-2591" width="142" height="90" as="geometry" />
+        <mxCell id="4i3hxFqDiJTiCVF9MgOw-9" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-2691" width="142" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
