@@ -1379,7 +1379,7 @@
           <mxGeometry x="1159" y="-2829" width="175" height="79" as="geometry" />
         </mxCell>
         <mxCell id="4i3hxFqDiJTiCVF9MgOw-19" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.camera;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1115" y="-2326" width="150" height="146" as="geometry" />
+          <mxGeometry x="-879" y="-2300" width="150" height="146" as="geometry" />
         </mxCell>
         <mxCell id="4i3hxFqDiJTiCVF9MgOw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=10;fillColor=#60a917;strokeColor=#3FA600;" edge="1" parent="1" source="4i3hxFqDiJTiCVF9MgOw-5" target="4i3hxFqDiJTiCVF9MgOw-19">
           <mxGeometry relative="1" as="geometry">
@@ -1393,7 +1393,7 @@
           <mxGeometry x="-1046" y="-2116" width="138" height="98" as="geometry" />
         </mxCell>
         <mxCell id="4i3hxFqDiJTiCVF9MgOw-24" value="" style="shape=mxgraph.signs.tech.camera_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="-751" y="-2451" width="98" height="84" as="geometry" />
+          <mxGeometry x="-1098" y="-2561.5" width="130" height="122" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
