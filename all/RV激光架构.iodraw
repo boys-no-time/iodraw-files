@@ -1381,7 +1381,7 @@
         <mxCell id="4i3hxFqDiJTiCVF9MgOw-19" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.camera;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1166" y="-2316" width="175" height="178" as="geometry" />
         </mxCell>
-        <mxCell id="4i3hxFqDiJTiCVF9MgOw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;" edge="1" parent="1" source="4i3hxFqDiJTiCVF9MgOw-5" target="4i3hxFqDiJTiCVF9MgOw-19">
+        <mxCell id="4i3hxFqDiJTiCVF9MgOw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;fillColor=#60a917;strokeColor=#3FA600;" edge="1" parent="1" source="4i3hxFqDiJTiCVF9MgOw-5" target="4i3hxFqDiJTiCVF9MgOw-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="85" y="-1985" />
