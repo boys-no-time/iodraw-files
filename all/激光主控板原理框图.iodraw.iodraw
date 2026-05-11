@@ -1794,10 +1794,10 @@
           <mxGeometry x="-1999" y="-2317" width="163" height="137" as="geometry" />
         </mxCell>
         <mxCell id="m11m6_cM9mnaXwlHGRdp-55" value="&lt;font style=&quot;font-size: 18px&quot;&gt;底座电源板&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1999" y="-2108" width="163" height="137" as="geometry" />
+          <mxGeometry x="-2033.5" y="-2107" width="232" height="153" as="geometry" />
         </mxCell>
         <mxCell id="m11m6_cM9mnaXwlHGRdp-56" value="&lt;font style=&quot;font-size: 18px&quot;&gt;USR双发&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1543" y="-2047" width="51" height="93" as="geometry" />
+          <mxGeometry x="-2033.5" y="-2077" width="51" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
