@@ -1458,7 +1458,7 @@
           <mxGeometry x="-4344" y="3064" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;align=right;" vertex="1" parent="1">
-          <mxGeometry x="-3000" y="2848" width="520" height="385" as="geometry" />
+          <mxGeometry x="-3030" y="2673" width="520" height="385" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#FF0000;strokeWidth=4;" edge="1" parent="1" source="CqFwMITJ_ReAAX3Ujvlx-14" target="CqFwMITJ_ReAAX3Ujvlx-15">
           <mxGeometry relative="1" as="geometry" />
@@ -1467,22 +1467,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-14" value="&lt;span style=&quot;font-size: 24px&quot;&gt;太阳能控制器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-3044" y="3059" width="170" height="120" as="geometry" />
+          <mxGeometry x="-2991" y="2833" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-15" value="&lt;span style=&quot;font-size: 24px&quot;&gt;电池组&lt;br&gt;12.8V 100AH&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-2764" y="3059" width="170" height="120" as="geometry" />
+          <mxGeometry x="-2711" y="2833" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeColor=#FF0000;strokeWidth=4;" edge="1" parent="1" source="CqFwMITJ_ReAAX3Ujvlx-17" target="CqFwMITJ_ReAAX3Ujvlx-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-17" value="太阳能板&lt;br&gt;18V 80W&amp;nbsp; &amp;nbsp;*2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="-3039" y="2932" width="160" height="70" as="geometry" />
+          <mxGeometry x="-2986" y="2706" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-18" value="&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-3044" y="3174" width="10" height="18" as="geometry" />
+          <mxGeometry x="-2991" y="2948" width="10" height="18" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-19" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 32px&quot;&gt;&lt;b&gt;电池箱&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="-2724" y="2922" width="110" height="30" as="geometry" />
+          <mxGeometry x="-2671" y="2696" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;strokeWidth=4;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1" source="CqFwMITJ_ReAAX3Ujvlx-23" target="CqFwMITJ_ReAAX3Ujvlx-3">
           <mxGeometry relative="1" as="geometry">
@@ -1585,7 +1585,7 @@
           <mxGeometry x="-3991" y="2699" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-52" value="&lt;span style=&quot;font-size: 24px&quot;&gt;RJ45航插&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-3083" y="2593" width="198" height="83" as="geometry" />
+          <mxGeometry x="-3038" y="2501" width="198" height="83" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-53" value="&lt;span style=&quot;font-size: 24px&quot;&gt;镜头加热&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-4346" y="3179" width="162" height="65" as="geometry" />
