@@ -1688,8 +1688,8 @@
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-92" value="&lt;span style=&quot;font-size: 19px&quot;&gt;GPIO&lt;br&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3610" y="3807" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CqFwMITJ_ReAAX3Ujvlx-93" value="&lt;span style=&quot;font-size: 24px&quot;&gt;高速高分影像处理单元&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-3531" y="3920" width="109.5" height="172" as="geometry" />
+        <mxCell id="CqFwMITJ_ReAAX3Ujvlx-93" value="&lt;span style=&quot;font-size: 24px&quot;&gt;可视化相机&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-3531" y="3960" width="109.5" height="132" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-95" value="&lt;span style=&quot;font-size: 24px&quot;&gt;高速高分影像处理单元&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-3793" y="4172" width="110.5" height="170" as="geometry" />
