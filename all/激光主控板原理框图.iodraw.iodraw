@@ -1790,6 +1790,9 @@
         <mxCell id="m11m6_cM9mnaXwlHGRdp-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;curved=0;strokeWidth=3;startArrow=classic;startFill=1;" edge="1" parent="1" source="m11m6_cM9mnaXwlHGRdp-52" target="m11m6_cM9mnaXwlHGRdp-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="m11m6_cM9mnaXwlHGRdp-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m11m6_cM9mnaXwlHGRdp-52" target="m11m6_cM9mnaXwlHGRdp-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m11m6_cM9mnaXwlHGRdp-52" value="&lt;font style=&quot;font-size: 18px&quot;&gt;核心载板&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2003" y="-2511" width="163" height="137" as="geometry" />
         </mxCell>
@@ -1814,8 +1817,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1463" y="-2031" />
-              <mxPoint x="-1463" y="-2443" />
-              <mxPoint x="-1840" y="-2443" />
+              <mxPoint x="-1463" y="-2477" />
             </Array>
           </mxGeometry>
         </mxCell>
