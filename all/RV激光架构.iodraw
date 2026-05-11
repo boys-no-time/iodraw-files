@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="IJM556epn4KSd806lVO7" name="第 1 页">
-    <mxGraphModel dx="6158" dy="4832" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="7924" dy="5914" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1755,7 +1755,10 @@
           <mxGeometry x="-3318" y="4320" width="123" height="54" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-119" value="&lt;span style=&quot;font-size: 19px&quot;&gt;TYPEC*2&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-3330" y="4184" width="99" height="35" as="geometry" />
+          <mxGeometry x="-3320" y="4185" width="99" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="CqFwMITJ_ReAAX3Ujvlx-120" value="&lt;span style=&quot;font-size: 18px&quot;&gt;晶振RTC&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3205" y="2125" width="115" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
