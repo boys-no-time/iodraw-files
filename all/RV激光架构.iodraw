@@ -1625,7 +1625,7 @@
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-114" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;startArrow=classic;startFill=1;strokeWidth=2;curved=0;" edge="1" parent="1" source="CqFwMITJ_ReAAX3Ujvlx-63" target="CqFwMITJ_ReAAX3Ujvlx-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CqFwMITJ_ReAAX3Ujvlx-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CqFwMITJ_ReAAX3Ujvlx-63" target="CqFwMITJ_ReAAX3Ujvlx-115">
+        <mxCell id="CqFwMITJ_ReAAX3Ujvlx-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="CqFwMITJ_ReAAX3Ujvlx-63" target="CqFwMITJ_ReAAX3Ujvlx-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-63" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 24px; background-color: initial;&quot;&gt;RV1126B计算平台&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;dashed=1;align=center;" vertex="1" parent="1">
@@ -1747,6 +1747,9 @@
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-115" value="&lt;span style=&quot;font-size: 18px&quot;&gt;DEBUG&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3440" y="4320" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="CqFwMITJ_ReAAX3Ujvlx-118" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;curved=0;" edge="1" parent="1" source="CqFwMITJ_ReAAX3Ujvlx-116" target="CqFwMITJ_ReAAX3Ujvlx-63">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-116" value="&lt;span style=&quot;font-size: 18px&quot;&gt;ADB调试&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3318" y="4320" width="123" height="54" as="geometry" />
