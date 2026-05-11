@@ -1814,7 +1814,14 @@
           <mxGeometry x="-2044" y="-1918" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m11m6_cM9mnaXwlHGRdp-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1.002;entryY=0.449;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="m11m6_cM9mnaXwlHGRdp-55" target="m11m6_cM9mnaXwlHGRdp-52">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1843" y="-2107" />
+              <mxPoint x="-1843" y="-2240" />
+              <mxPoint x="-1820" y="-2240" />
+              <mxPoint x="-1820" y="-2449" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
