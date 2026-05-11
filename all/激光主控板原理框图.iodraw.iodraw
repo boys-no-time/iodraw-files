@@ -1796,7 +1796,7 @@
         <mxCell id="m11m6_cM9mnaXwlHGRdp-54" value="&lt;font style=&quot;font-size: 18px&quot;&gt;云台驱动板&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1981.75" y="-2284.5" width="120.5" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="m11m6_cM9mnaXwlHGRdp-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="m11m6_cM9mnaXwlHGRdp-55" target="m11m6_cM9mnaXwlHGRdp-52">
+        <mxCell id="m11m6_cM9mnaXwlHGRdp-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.921;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="m11m6_cM9mnaXwlHGRdp-55" target="m11m6_cM9mnaXwlHGRdp-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m11m6_cM9mnaXwlHGRdp-55" value="&lt;font style=&quot;font-size: 18px&quot;&gt;底座电源板&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
