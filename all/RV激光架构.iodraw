@@ -1458,7 +1458,7 @@
           <mxGeometry x="-4344" y="3064" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;align=right;" vertex="1" parent="1">
-          <mxGeometry x="-3084" y="2904" width="520" height="385" as="geometry" />
+          <mxGeometry x="-3000" y="2848" width="520" height="385" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#FF0000;strokeWidth=4;" edge="1" parent="1" source="CqFwMITJ_ReAAX3Ujvlx-14" target="CqFwMITJ_ReAAX3Ujvlx-15">
           <mxGeometry relative="1" as="geometry" />
@@ -1493,14 +1493,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CqFwMITJ_ReAAX3Ujvlx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.271;exitY=0.014;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;strokeColor=#FF0000;strokeWidth=4;exitPerimeter=0;" edge="1" parent="1" source="CqFwMITJ_ReAAX3Ujvlx-23" target="CqFwMITJ_ReAAX3Ujvlx-38">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-3341" y="2740" />
-              <mxPoint x="-3341" y="2740" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;strokeColor=#FF0000;strokeWidth=4;" edge="1" parent="1" source="CqFwMITJ_ReAAX3Ujvlx-23" target="CqFwMITJ_ReAAX3Ujvlx-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1523,13 +1515,14 @@
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-27" value="&lt;font style=&quot;font-size: 22px&quot;&gt;双发&lt;br&gt;USR&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-3902" y="2630" width="98" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="CqFwMITJ_ReAAX3Ujvlx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;startArrow=block;startFill=1;strokeWidth=3;strokeColor=#66cc00;" edge="1" parent="1" source="CqFwMITJ_ReAAX3Ujvlx-29" target="CqFwMITJ_ReAAX3Ujvlx-38">
+        <mxCell id="CqFwMITJ_ReAAX3Ujvlx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;startArrow=block;startFill=1;strokeWidth=3;strokeColor=#66cc00;" edge="1" parent="1" source="CqFwMITJ_ReAAX3Ujvlx-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-3694" y="2571" />
               <mxPoint x="-3457" y="2571" />
               <mxPoint x="-3457" y="2635" />
             </Array>
+            <mxPoint x="-3384.0000000000005" y="2634.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-29" value="交换机RJ45网口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" vertex="1" parent="1">
@@ -1553,14 +1546,10 @@
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-35" value="外接天线4G/GPS&lt;br&gt;SIM卡接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="-3864" y="2474" width="190" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="CqFwMITJ_ReAAX3Ujvlx-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;strokeWidth=4;strokeColor=#66CC00;" edge="1" parent="1" source="CqFwMITJ_ReAAX3Ujvlx-38" target="CqFwMITJ_ReAAX3Ujvlx-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CqFwMITJ_ReAAX3Ujvlx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;startArrow=classicThin;startFill=1;strokeColor=#66CC00;strokeWidth=4;" edge="1" parent="1" source="CqFwMITJ_ReAAX3Ujvlx-38" target="CqFwMITJ_ReAAX3Ujvlx-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CqFwMITJ_ReAAX3Ujvlx-38" value="&lt;font style=&quot;font-size: 24px&quot;&gt;RJ45 * 4&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-3384" y="2593" width="170" height="83" as="geometry" />
+        <mxCell id="CqFwMITJ_ReAAX3Ujvlx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;startArrow=classicThin;startFill=1;strokeColor=#66CC00;strokeWidth=4;" edge="1" parent="1" target="CqFwMITJ_ReAAX3Ujvlx-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3214.0000000000005" y="2613.75" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-39" value="&lt;span style=&quot;font-size: 24px&quot;&gt;4G通信与网络加密&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-4032" y="2413" width="218" height="41" as="geometry" />
@@ -1594,12 +1583,6 @@
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-49" value="&lt;span style=&quot;font-size: 19px&quot;&gt;GPIO&lt;br&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3991" y="2699" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="CqFwMITJ_ReAAX3Ujvlx-50" value="&lt;span style=&quot;font-size: 24px&quot;&gt;其他外设&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-3084" y="2758.5" width="199" height="83" as="geometry" />
-        </mxCell>
-        <mxCell id="CqFwMITJ_ReAAX3Ujvlx-51" value="&lt;span style=&quot;font-size: 24px&quot;&gt;雷电预警定位&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-3082" y="2675.5" width="197" height="83" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-52" value="&lt;span style=&quot;font-size: 24px&quot;&gt;RJ45航插&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-3083" y="2593" width="198" height="83" as="geometry" />
