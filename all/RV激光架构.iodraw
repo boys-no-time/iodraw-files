@@ -1683,16 +1683,16 @@
           <mxGeometry x="-3610" y="3807" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-93" value="&lt;span style=&quot;font-size: 24px&quot;&gt;可视化相机&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-3893" y="3969.75" width="149.5" height="83.5" as="geometry" />
-        </mxCell>
-        <mxCell id="CqFwMITJ_ReAAX3Ujvlx-95" value="&lt;span style=&quot;font-size: 24px&quot;&gt;激光雷达&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-3901.5" y="4078" width="166.5" height="73" as="geometry" />
+          <mxGeometry x="-3902.5" y="3945" width="181" height="81.25" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-96" value="&lt;font style=&quot;font-size: 22px&quot;&gt;双发USR&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-3003" y="3698" width="219" height="67" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-97" value="&lt;span style=&quot;font-size: 24px&quot;&gt;供电管理与监控、低功耗休眠&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-2908" y="4159" width="182.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CqFwMITJ_ReAAX3Ujvlx-98" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;激光雷达&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-3902" y="4054" width="181" height="81.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
