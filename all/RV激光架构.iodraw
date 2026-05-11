@@ -1602,6 +1602,12 @@
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-58" value="&lt;span style=&quot;font-size: 24px&quot;&gt;高速高分影像处理单元&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-3910.5" y="2848" width="169" height="91" as="geometry" />
         </mxCell>
+        <mxCell id="CqFwMITJ_ReAAX3Ujvlx-59" value="&lt;span style=&quot;font-size: 24px&quot;&gt;实时处理单元&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-3799" y="2967" width="199.5" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="CqFwMITJ_ReAAX3Ujvlx-60" value="&lt;span style=&quot;font-size: 24px&quot;&gt;高速高分影像处理单元&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-3909.5" y="2849" width="169" height="91" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
