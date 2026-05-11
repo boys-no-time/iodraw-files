@@ -1758,7 +1758,7 @@
           <mxGeometry x="-3320" y="4185" width="99" height="35" as="geometry" />
         </mxCell>
         <mxCell id="CqFwMITJ_ReAAX3Ujvlx-120" value="&lt;span style=&quot;font-size: 18px&quot;&gt;晶振RTC&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3205" y="2125" width="115" height="39" as="geometry" />
+          <mxGeometry x="-2979" y="4535" width="115" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
