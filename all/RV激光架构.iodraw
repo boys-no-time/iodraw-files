@@ -1970,7 +1970,10 @@
           <mxGeometry x="-2450" y="-3326" width="102" height="53" as="geometry" />
         </mxCell>
         <mxCell id="JzQ8ylp1Hosaq4tKysid-119" value="板对板连接器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="-2790.75" y="-3277.25" width="490.5" height="40" as="geometry" />
+          <mxGeometry x="-2502" y="-3278" width="490.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JzQ8ylp1Hosaq4tKysid-120" value="RGMII" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-2566" y="-3218" width="39" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
