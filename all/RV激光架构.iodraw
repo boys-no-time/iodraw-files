@@ -2017,7 +2017,7 @@
         <mxCell id="WXbd1VTqErlvnO5USHt3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;curved=0;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="WXbd1VTqErlvnO5USHt3-5" target="WXbd1VTqErlvnO5USHt3-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WXbd1VTqErlvnO5USHt3-5" value="MIPI*2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="WXbd1VTqErlvnO5USHt3-5" value="MIPI&lt;br&gt;4lane*2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-2277" y="-3127" width="41" height="115" as="geometry" />
         </mxCell>
         <mxCell id="WXbd1VTqErlvnO5USHt3-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;MIPI连接器*2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
