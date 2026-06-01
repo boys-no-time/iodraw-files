@@ -1924,8 +1924,11 @@
         <mxCell id="JzQ8ylp1Hosaq4tKysid-103" value="&lt;span style=&quot;font-size: 18px&quot;&gt;4G&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2840" y="-3473" width="79" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="JzQ8ylp1Hosaq4tKysid-104" value="USB&lt;br&gt;2.0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-2621" y="-3467" width="42" height="59" as="geometry" />
+        <mxCell id="JzQ8ylp1Hosaq4tKysid-104" value="USB&lt;br&gt;2.0&lt;div&gt;HOST&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-2666" y="-3495" width="40" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="JzQ8ylp1Hosaq4tKysid-105" value="USB&lt;br&gt;2.0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-2702" y="-3358.5" width="40" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
