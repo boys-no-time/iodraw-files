@@ -2005,6 +2005,9 @@
         <mxCell id="JzQ8ylp1Hosaq4tKysid-129" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;电源管理&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;充电管理&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3079" y="-3640.5" width="134" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="WXbd1VTqErlvnO5USHt3-1" value="UART" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-2395.5" y="-2946" width="40" height="79" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
