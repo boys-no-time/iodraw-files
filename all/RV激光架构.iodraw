@@ -1960,11 +1960,14 @@
         <mxCell id="JzQ8ylp1Hosaq4tKysid-114" value="&lt;span style=&quot;font-size: 18px&quot;&gt;ADB调试&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2925" y="-3344" width="120" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="JzQ8ylp1Hosaq4tKysid-116" value="LPDDR4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="JzQ8ylp1Hosaq4tKysid-116" value="EMMC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-2450" y="-3379" width="102" height="53" as="geometry" />
         </mxCell>
         <mxCell id="JzQ8ylp1Hosaq4tKysid-117" value="RTC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-2771" y="-3105" width="72" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JzQ8ylp1Hosaq4tKysid-118" value="LPDDR4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-2450" y="-3326" width="102" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
