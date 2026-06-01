@@ -2023,7 +2023,7 @@
         <mxCell id="WXbd1VTqErlvnO5USHt3-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;MIPI连接器*2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-2087" y="-3091.5" width="171" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="WXbd1VTqErlvnO5USHt3-8" value="SDMMC&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="WXbd1VTqErlvnO5USHt3-8" value="SD&lt;div&gt;MMC0&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-2141" y="-3253" width="41" height="115" as="geometry" />
         </mxCell>
       </root>
