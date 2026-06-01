@@ -1939,10 +1939,10 @@
         <mxCell id="JzQ8ylp1Hosaq4tKysid-106" value="GPIO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-2566.5" y="-3504" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JzQ8ylp1Hosaq4tKysid-109" value="USB&lt;br&gt;2.0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="JzQ8ylp1Hosaq4tKysid-109" value="USB&lt;br&gt;2.0&lt;div&gt;OTG&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-2723" y="-3261" width="40" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="JzQ8ylp1Hosaq4tKysid-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JzQ8ylp1Hosaq4tKysid-110" target="JzQ8ylp1Hosaq4tKysid-105">
+        <mxCell id="JzQ8ylp1Hosaq4tKysid-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="JzQ8ylp1Hosaq4tKysid-110" target="JzQ8ylp1Hosaq4tKysid-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JzQ8ylp1Hosaq4tKysid-110" value="&lt;span style=&quot;font-size: 18px&quot;&gt;USB3.0-TYPEA连接器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
