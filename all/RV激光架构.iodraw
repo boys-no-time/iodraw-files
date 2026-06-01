@@ -2006,7 +2006,7 @@
           <mxGeometry x="-3079" y="-3640.5" width="134" height="67" as="geometry" />
         </mxCell>
         <mxCell id="WXbd1VTqErlvnO5USHt3-1" value="UART" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-2620.75" y="-3103" width="41.5" height="95" as="geometry" />
+          <mxGeometry x="-2626" y="-3123" width="39" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
