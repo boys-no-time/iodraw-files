@@ -1918,8 +1918,11 @@
         <mxCell id="JzQ8ylp1Hosaq4tKysid-101" value="&lt;font style=&quot;font-size: 20px&quot;&gt;RV1126BJ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-2566" y="-3504" width="330" height="492" as="geometry" />
         </mxCell>
-        <mxCell id="JzQ8ylp1Hosaq4tKysid-102" value="板对板连接器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-2480" y="-3170" width="165" height="40" as="geometry" />
+        <mxCell id="JzQ8ylp1Hosaq4tKysid-102" value="板对板连接器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-2791.75" y="-3278.25" width="490.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JzQ8ylp1Hosaq4tKysid-103" value="&lt;span style=&quot;font-size: 18px&quot;&gt;4G&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2779.5" y="-3016" width="79" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
