@@ -2032,7 +2032,7 @@
         <mxCell id="WXbd1VTqErlvnO5USHt3-9" value="&lt;span style=&quot;font-size: 18px&quot;&gt;TF/SD卡&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-2059" y="-3182.5" width="115" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="WXbd1VTqErlvnO5USHt3-12" value="MIPI&lt;br&gt;4lane*2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="WXbd1VTqErlvnO5USHt3-12" value="GPIO / I2C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-2277" y="-3504" width="41" height="115" as="geometry" />
         </mxCell>
       </root>
