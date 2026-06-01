@@ -2014,8 +2014,8 @@
         <mxCell id="WXbd1VTqErlvnO5USHt3-2" value="&lt;span style=&quot;font-size: 18px&quot;&gt;DEBUG+&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;UART外设&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-2919" y="-3090" width="220" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="WXbd1VTqErlvnO5USHt3-5" value="UART" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-2275.5" y="-3127" width="39.5" height="115" as="geometry" />
+        <mxCell id="WXbd1VTqErlvnO5USHt3-5" value="MIPI*2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-2277" y="-3127" width="41" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
