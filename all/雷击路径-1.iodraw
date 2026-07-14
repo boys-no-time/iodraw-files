@@ -291,8 +291,8 @@
         <mxCell id="lBEAlPgr5VT-0Ro_Fn-c-39" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 16px&quot;&gt;UART&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="607" y="1507" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lBEAlPgr5VT-0Ro_Fn-c-41" value="&lt;span style=&quot;font-size: 24px&quot;&gt;光电触发 &lt;br&gt;雷电传感&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="695" y="1854" width="137" height="97" as="geometry" />
+        <mxCell id="lBEAlPgr5VT-0Ro_Fn-c-41" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;AOV&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="725" y="2043" width="137" height="97" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
