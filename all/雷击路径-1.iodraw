@@ -186,7 +186,7 @@
         <mxCell id="lBEAlPgr5VT-0Ro_Fn-c-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="237" y="1431" width="710" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="lBEAlPgr5VT-0Ro_Fn-c-2" value="相机图像处理单元&lt;br&gt;高分辨率+高帧率" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="lBEAlPgr5VT-0Ro_Fn-c-2" value="雷电影像抓拍&lt;br&gt;高帧率*4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="257" y="1581" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lBEAlPgr5VT-0Ro_Fn-c-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;shadow=0;startArrow=blockThin;startFill=0;endArrow=classicThin;endFill=0;strokeColor=#97D077;strokeWidth=4;" edge="1" parent="1" source="lBEAlPgr5VT-0Ro_Fn-c-4" target="lBEAlPgr5VT-0Ro_Fn-c-6">
