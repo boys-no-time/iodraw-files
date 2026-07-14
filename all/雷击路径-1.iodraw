@@ -291,6 +291,9 @@
         <mxCell id="lBEAlPgr5VT-0Ro_Fn-c-39" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 16px&quot;&gt;UART&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="607" y="1507" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="lBEAlPgr5VT-0Ro_Fn-c-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="lBEAlPgr5VT-0Ro_Fn-c-41" target="lBEAlPgr5VT-0Ro_Fn-c-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lBEAlPgr5VT-0Ro_Fn-c-41" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;AOV可选&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="730" y="1432" width="137" height="97" as="geometry" />
         </mxCell>
