@@ -796,10 +796,10 @@
           <mxGeometry x="3136.5" y="2254" width="169" height="91" as="geometry" />
         </mxCell>
         <mxCell id="iP0dVRmfsCetSsg4dM-E-59" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;顶端补盲相机&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="2696" y="2152" width="174" height="65" as="geometry" />
+          <mxGeometry x="2662" y="2105" width="174" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="iP0dVRmfsCetSsg4dM-E-62" value="&lt;span style=&quot;font-size: 24px&quot;&gt;90°环视MIPI&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;相机*4&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="2633" y="1669" width="158" height="82" as="geometry" />
+        <mxCell id="iP0dVRmfsCetSsg4dM-E-62" value="&lt;span style=&quot;font-size: 24px&quot;&gt;90°环视&lt;/span&gt;&lt;span style=&quot;font-size: 24px; background-color: initial;&quot;&gt;相机*4&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="2687" y="1990" width="158" height="82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
