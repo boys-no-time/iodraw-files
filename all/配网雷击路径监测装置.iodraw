@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="PmO_SZysGhwk3cofujjI" name="第 1 页">
-    <mxGraphModel dx="1434" dy="884" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="1607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -644,7 +644,7 @@
         <mxCell id="iP0dVRmfsCetSsg4dM-E-14" value="&lt;span style=&quot;font-size: 24px&quot;&gt;太阳能控制器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="4003" y="2465" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="iP0dVRmfsCetSsg4dM-E-15" value="&lt;span style=&quot;font-size: 24px&quot;&gt;电池组&lt;br&gt;12.8V 100AH&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="iP0dVRmfsCetSsg4dM-E-15" value="&lt;span style=&quot;font-size: 24px&quot;&gt;电池组&lt;br&gt;12.8V 50AH&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="4283" y="2465" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iP0dVRmfsCetSsg4dM-E-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeColor=#FF0000;strokeWidth=4;" edge="1" parent="1" source="iP0dVRmfsCetSsg4dM-E-17" target="iP0dVRmfsCetSsg4dM-E-14">
@@ -786,7 +786,7 @@
           <mxGeometry x="2643" y="2690" width="304" height="24" as="geometry" />
         </mxCell>
         <mxCell id="iP0dVRmfsCetSsg4dM-E-57" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3620" y="1846" width="567" height="334" as="geometry" />
+          <mxGeometry x="3620" y="1947" width="567" height="233" as="geometry" />
         </mxCell>
         <mxCell id="iP0dVRmfsCetSsg4dM-E-58" value="&lt;span style=&quot;font-size: 24px&quot;&gt;高速影像处理单元&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="3136.5" y="2254" width="169" height="91" as="geometry" />
