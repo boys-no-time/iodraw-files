@@ -543,7 +543,7 @@
         <mxCell id="GItIuOtd4jm5fzECmszH-6" value="&lt;span style=&quot;font-size: 24px&quot;&gt;高速高分影像处理单元&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="713.5" y="1444" width="169" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="51KidM1d5CMK9AAgeeU7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="XoIGYuCidCCzW1O4SqDs-2" target="iP0dVRmfsCetSsg4dM-E-40">
+        <mxCell id="51KidM1d5CMK9AAgeeU7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;curved=0;startArrow=classic;startFill=1;strokeWidth=3;" edge="1" parent="1" source="XoIGYuCidCCzW1O4SqDs-2" target="iP0dVRmfsCetSsg4dM-E-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XoIGYuCidCCzW1O4SqDs-2" value="&lt;span style=&quot;font-size: 24px&quot;&gt;云端计算平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#E6E6E6;strokeColor=#36393d;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
@@ -746,6 +746,9 @@
         </mxCell>
         <mxCell id="iP0dVRmfsCetSsg4dM-E-55" value="&lt;span style=&quot;font-size: 32px&quot;&gt;&lt;b&gt;相机镜头传感器模块&lt;/b&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="2643" y="2690" width="304" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="51KidM1d5CMK9AAgeeU7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iP0dVRmfsCetSsg4dM-E-57" target="XoIGYuCidCCzW1O4SqDs-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iP0dVRmfsCetSsg4dM-E-57" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3620" y="1947" width="567" height="233" as="geometry" />
