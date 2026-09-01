@@ -767,7 +767,7 @@
         <mxCell id="iP0dVRmfsCetSsg4dM-E-52" value="&lt;span style=&quot;font-size: 24px&quot;&gt;RJ45航插&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="3964" y="1992" width="198" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="iP0dVRmfsCetSsg4dM-E-53" value="&lt;span style=&quot;font-size: 24px&quot;&gt;镜头加热&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="iP0dVRmfsCetSsg4dM-E-53" value="&lt;span style=&quot;font-size: 24px&quot;&gt;镜头封装、加热&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="2673" y="2585" width="190" height="65" as="geometry" />
         </mxCell>
         <mxCell id="iP0dVRmfsCetSsg4dM-E-54" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
@@ -848,9 +848,6 @@
         </mxCell>
         <mxCell id="iP0dVRmfsCetSsg4dM-E-83" value="运维管理监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#CCFF99;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="3807" y="1180" width="150" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="iP0dVRmfsCetSsg4dM-E-84" value="&lt;span style=&quot;font-size: 24px&quot;&gt;镜头封装&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="2429" y="2121" width="149" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
