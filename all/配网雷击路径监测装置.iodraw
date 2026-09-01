@@ -547,16 +547,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XoIGYuCidCCzW1O4SqDs-2" value="&lt;span style=&quot;font-size: 24px&quot;&gt;云端计算平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#E6E6E6;strokeColor=#36393d;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="3457" y="1367.5" width="416" height="259" as="geometry" />
+          <mxGeometry x="3489" y="1471" width="416" height="259" as="geometry" />
         </mxCell>
         <mxCell id="XoIGYuCidCCzW1O4SqDs-12" value="数据归一化处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="3704" y="1457.5" width="168" height="63" as="geometry" />
+          <mxGeometry x="3736" y="1561" width="168" height="63" as="geometry" />
         </mxCell>
         <mxCell id="XoIGYuCidCCzW1O4SqDs-17" value="外部预触发与时间同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="3673" y="1536.5" width="199" height="61" as="geometry" />
+          <mxGeometry x="3705" y="1640" width="199" height="61" as="geometry" />
         </mxCell>
         <mxCell id="XoIGYuCidCCzW1O4SqDs-21" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;闪电光学观测专家软件&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="3458" y="1394.5" width="128" height="205" as="geometry" />
+          <mxGeometry x="3490" y="1498" width="128" height="205" as="geometry" />
         </mxCell>
         <mxCell id="iP0dVRmfsCetSsg4dM-E-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#97D077;strokeWidth=4;startArrow=classic;startFill=1;" parent="1" source="iP0dVRmfsCetSsg4dM-E-3" target="iP0dVRmfsCetSsg4dM-E-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -821,7 +821,7 @@
           <mxGeometry x="1981" y="745" width="120" height="111" as="geometry" />
         </mxCell>
         <mxCell id="iP0dVRmfsCetSsg4dM-E-83" value="运维管理监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#CCFF99;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="3707" y="1389.5" width="165" height="57" as="geometry" />
+          <mxGeometry x="3739" y="1493" width="165" height="57" as="geometry" />
         </mxCell>
         <mxCell id="51KidM1d5CMK9AAgeeU7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.971;entryY=0.457;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=0;startArrow=classic;startFill=1;strokeWidth=3;" edge="1" parent="1" source="XoIGYuCidCCzW1O4SqDs-12" target="XoIGYuCidCCzW1O4SqDs-21">
           <mxGeometry relative="1" as="geometry" />
