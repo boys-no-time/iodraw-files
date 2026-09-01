@@ -785,11 +785,8 @@
         <mxCell id="iP0dVRmfsCetSsg4dM-E-55" value="&lt;span style=&quot;font-size: 32px&quot;&gt;&lt;b&gt;相机镜头传感器模块&lt;/b&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="2643" y="2690" width="304" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="iP0dVRmfsCetSsg4dM-E-56" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 32px&quot;&gt;&lt;b&gt;外设接口&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="3713" y="1930" width="146" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="iP0dVRmfsCetSsg4dM-E-57" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4074" y="1584" width="567" height="334" as="geometry" />
+          <mxGeometry x="4034" y="1574.5" width="567" height="334" as="geometry" />
         </mxCell>
         <mxCell id="iP0dVRmfsCetSsg4dM-E-58" value="&lt;span style=&quot;font-size: 24px&quot;&gt;高速影像处理单元&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="3136.5" y="2254" width="169" height="91" as="geometry" />
