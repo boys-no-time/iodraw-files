@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="PmO_SZysGhwk3cofujjI" name="第 1 页">
-    <mxGraphModel dx="1434" dy="884" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -546,19 +546,8 @@
         <mxCell id="XoIGYuCidCCzW1O4SqDs-2" value="&lt;span style=&quot;font-size: 24px&quot;&gt;云端计算平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#E6E6E6;strokeColor=#36393d;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="3568" y="1179" width="416" height="259" as="geometry" />
         </mxCell>
-        <mxCell id="XoIGYuCidCCzW1O4SqDs-9" value="休眠唤醒控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="3864" y="1352" width="120" height="41" as="geometry" />
-        </mxCell>
         <mxCell id="XoIGYuCidCCzW1O4SqDs-12" value="网络通信" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="3716" y="1385" width="120" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="XoIGYuCidCCzW1O4SqDs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;strokeWidth=3;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" source="XoIGYuCidCCzW1O4SqDs-17" target="XoIGYuCidCCzW1O4SqDs-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="4151" y="1475" />
-              <mxPoint x="3776" y="1475" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="3807" y="1269" width="120" height="53" as="geometry" />
         </mxCell>
         <mxCell id="XoIGYuCidCCzW1O4SqDs-17" value="外部触发源" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="4091.5" y="1346" width="120" height="53" as="geometry" />
