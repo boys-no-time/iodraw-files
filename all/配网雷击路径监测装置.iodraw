@@ -849,6 +849,9 @@
         <mxCell id="iP0dVRmfsCetSsg4dM-E-82" value="AOV采集功能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1981" y="745" width="120" height="111" as="geometry" />
         </mxCell>
+        <mxCell id="iP0dVRmfsCetSsg4dM-E-83" value="AOV采集功能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="4028" y="1061" width="239" height="79" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
