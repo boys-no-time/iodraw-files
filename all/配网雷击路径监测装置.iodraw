@@ -800,7 +800,7 @@
         <mxCell id="iP0dVRmfsCetSsg4dM-E-59" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;顶端全视野工业相机&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="2696" y="2143" width="233.5" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="iP0dVRmfsCetSsg4dM-E-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iP0dVRmfsCetSsg4dM-E-62">
+        <mxCell id="iP0dVRmfsCetSsg4dM-E-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF33FF;strokeWidth=2;" edge="1" parent="1" source="iP0dVRmfsCetSsg4dM-E-62">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3132.818181818182" y="2297.3333333333335" as="targetPoint" />
           </mxGeometry>
