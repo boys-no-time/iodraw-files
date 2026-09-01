@@ -567,7 +567,7 @@
           <mxGeometry x="4091.5" y="1346" width="120" height="53" as="geometry" />
         </mxCell>
         <mxCell id="XoIGYuCidCCzW1O4SqDs-21" value="AOV采集功能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="3133" y="1059" width="120" height="111" as="geometry" />
+          <mxGeometry x="3246" y="1251" width="166" height="231.5" as="geometry" />
         </mxCell>
         <mxCell id="iP0dVRmfsCetSsg4dM-E-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#97D077;strokeWidth=4;startArrow=classic;startFill=1;" parent="1" source="iP0dVRmfsCetSsg4dM-E-3" target="iP0dVRmfsCetSsg4dM-E-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
