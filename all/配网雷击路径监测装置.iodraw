@@ -607,12 +607,13 @@
         <mxCell id="iP0dVRmfsCetSsg4dM-E-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 24px; background-color: initial;&quot;&gt;核心计算平台&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;dashed=1;align=right;" vertex="1" parent="1">
           <mxGeometry x="3135" y="2170" width="434" height="279" as="geometry" />
         </mxCell>
-        <mxCell id="iP0dVRmfsCetSsg4dM-E-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;startArrow=openThin;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#FF66FF;" edge="1" parent="1">
+        <mxCell id="iP0dVRmfsCetSsg4dM-E-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;startArrow=openThin;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#FF66FF;" edge="1" parent="1" source="iP0dVRmfsCetSsg4dM-E-59">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3137.882381663603" y="2296.470588235294" as="targetPoint" />
-            <mxPoint x="2956" y="2174" as="sourcePoint" />
+            <mxPoint x="2867" y="2296.9999999999995" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="2929" y="2296" />
+              <mxPoint x="2987" y="2176" />
+              <mxPoint x="2987" y="2296" />
             </Array>
           </mxGeometry>
         </mxCell>
