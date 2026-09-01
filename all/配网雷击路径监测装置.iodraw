@@ -801,7 +801,7 @@
           <mxGeometry x="2696" y="2143" width="233.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="iP0dVRmfsCetSsg4dM-E-62" value="&lt;span style=&quot;font-size: 24px&quot;&gt;90°环视&lt;/span&gt;&lt;span style=&quot;font-size: 24px; background-color: initial;&quot;&gt;相机*4&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="2462.5" y="1984" width="273" height="82" as="geometry" />
+          <mxGeometry x="2693" y="2241" width="252" height="74" as="geometry" />
         </mxCell>
         <mxCell id="iP0dVRmfsCetSsg4dM-E-63" value="&lt;font style=&quot;font-size: 21px&quot;&gt;C口工业镜头超高速高帧率工业相机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="2511" y="1826" width="176" height="94" as="geometry" />
