@@ -547,7 +547,7 @@
           <mxGeometry x="3568" y="1179" width="416" height="259" as="geometry" />
         </mxCell>
         <mxCell id="XoIGYuCidCCzW1O4SqDs-12" value="网络通信" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="3807" y="1269" width="120" height="53" as="geometry" />
+          <mxGeometry x="3807" y="1269" width="176" height="81" as="geometry" />
         </mxCell>
         <mxCell id="XoIGYuCidCCzW1O4SqDs-17" value="外部触发源" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="4091.5" y="1346" width="120" height="53" as="geometry" />
