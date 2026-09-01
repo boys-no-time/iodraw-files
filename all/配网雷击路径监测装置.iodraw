@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="PmO_SZysGhwk3cofujjI" name="第 1 页">
-    <mxGraphModel dx="1509" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="1105" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -797,6 +797,9 @@
         </mxCell>
         <mxCell id="iP0dVRmfsCetSsg4dM-E-59" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;顶端补盲相机&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="2696" y="2152" width="174" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="iP0dVRmfsCetSsg4dM-E-62" value="&lt;span style=&quot;font-size: 24px&quot;&gt;90°环视MIPI&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;相机*4&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="2633" y="1669" width="158" height="82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
