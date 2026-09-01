@@ -798,11 +798,11 @@
         <mxCell id="iP0dVRmfsCetSsg4dM-E-59" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;顶端补盲相机&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=19;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="2696" y="2152" width="174" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="iP0dVRmfsCetSsg4dM-E-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.995;entryY=0.405;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iP0dVRmfsCetSsg4dM-E-58" target="iP0dVRmfsCetSsg4dM-E-59">
+        <mxCell id="iP0dVRmfsCetSsg4dM-E-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.995;entryY=0.405;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF33FF;" edge="1" parent="1" source="iP0dVRmfsCetSsg4dM-E-58" target="iP0dVRmfsCetSsg4dM-E-59">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3137" y="2294" />
-              <mxPoint x="3003" y="2294" />
+              <mxPoint x="3137" y="2297" />
+              <mxPoint x="3003" y="2297" />
               <mxPoint x="3003" y="2178" />
             </Array>
           </mxGeometry>
