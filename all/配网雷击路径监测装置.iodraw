@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="PmO_SZysGhwk3cofujjI" name="第 1 页">
-    <mxGraphModel dx="1434" dy="884" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="5736" dy="3536" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,63 +176,6 @@
         </mxCell>
         <mxCell id="e92CzIXw-v9gapG7Ctnh-35" value="对外航插电源" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="354" y="610" width="91" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="ptb17yvBATu1KCsGgBlN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#99CCFF;strokeWidth=2;startArrow=classic;startFill=1;" parent="1" source="ptb17yvBATu1KCsGgBlN-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="984" y="2219.500005086263" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ptb17yvBATu1KCsGgBlN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#d79b00;strokeWidth=2;fillColor=#ffe6cc;" parent="1" source="ptb17yvBATu1KCsGgBlN-1" target="ptb17yvBATu1KCsGgBlN-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ptb17yvBATu1KCsGgBlN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeColor=#C73500;strokeWidth=3;fillColor=#fa6800;" parent="1" source="ptb17yvBATu1KCsGgBlN-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="779.0001017252607" y="2352.3333333333335" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ptb17yvBATu1KCsGgBlN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeWidth=3;fillColor=#e51400;strokeColor=#FF0000;" parent="1" source="ptb17yvBATu1KCsGgBlN-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1190.333414713542" y="2322.3333333333335" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ptb17yvBATu1KCsGgBlN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#56517e;strokeWidth=3;fillColor=#d0cee2;" parent="1" source="ptb17yvBATu1KCsGgBlN-1" target="ptb17yvBATu1KCsGgBlN-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ptb17yvBATu1KCsGgBlN-1" value="&lt;span style=&quot;font-size: 24px&quot;&gt;实时处理单元&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="899" y="2292" width="170" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ptb17yvBATu1KCsGgBlN-2" value="光电触发接入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="922.5" y="2165" width="120" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="ptb17yvBATu1KCsGgBlN-3" value="看门狗模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="762.5" y="2165" width="120" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="ptb17yvBATu1KCsGgBlN-4" value="休眠唤醒控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="1083" y="2126" width="120" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="ptb17yvBATu1KCsGgBlN-5" value="核心板电源管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="677" y="2299" width="99" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="ptb17yvBATu1KCsGgBlN-7" value="核心板协议交互" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="677" y="2352" width="99" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="ptb17yvBATu1KCsGgBlN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=3;fillColor=#fa6800;strokeColor=#FF3333;" parent="1" source="ptb17yvBATu1KCsGgBlN-8" target="ptb17yvBATu1KCsGgBlN-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ptb17yvBATu1KCsGgBlN-8" value="EC20、USB电源管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontSize=19;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="864" y="2485" width="120" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="ptb17yvBATu1KCsGgBlN-9" value="OTA升级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="1192" y="2355" width="120" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="ptb17yvBATu1KCsGgBlN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#432D57;strokeWidth=3;fillColor=#76608a;" parent="1" source="ptb17yvBATu1KCsGgBlN-10" target="ptb17yvBATu1KCsGgBlN-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ptb17yvBATu1KCsGgBlN-10" value="RTC时钟" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontSize=19;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="984" y="2485" width="120" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="ptb17yvBATu1KCsGgBlN-11" value="供电系统管理监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="1192" y="2292" width="120" height="53" as="geometry" />
         </mxCell>
         <mxCell id="d-vX-y888_JuYhINsKZi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#97D077;strokeWidth=4;startArrow=classic;startFill=1;" parent="1" source="X89sO_WCtFvhKcQO0o-N-1" target="X89sO_WCtFvhKcQO0o-N-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
