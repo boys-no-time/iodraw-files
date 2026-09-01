@@ -815,7 +815,7 @@
           <mxGeometry x="1981" y="745" width="120" height="111" as="geometry" />
         </mxCell>
         <mxCell id="iP0dVRmfsCetSsg4dM-E-83" value="运维管理监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#CCFF99;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="3814" y="1192" width="150" height="65" as="geometry" />
+          <mxGeometry x="3818" y="1201" width="165" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
