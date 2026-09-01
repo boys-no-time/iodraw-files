@@ -817,6 +817,9 @@
         <mxCell id="iP0dVRmfsCetSsg4dM-E-83" value="运维管理监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#CCFF99;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="3818" y="1201" width="165" height="57" as="geometry" />
         </mxCell>
+        <mxCell id="51KidM1d5CMK9AAgeeU7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.971;entryY=0.457;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="XoIGYuCidCCzW1O4SqDs-12" target="XoIGYuCidCCzW1O4SqDs-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
