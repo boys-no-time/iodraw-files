@@ -546,7 +546,7 @@
         <mxCell id="51KidM1d5CMK9AAgeeU7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;curved=0;startArrow=classic;startFill=1;strokeWidth=5;" edge="1" parent="1" source="XoIGYuCidCCzW1O4SqDs-2" target="iP0dVRmfsCetSsg4dM-E-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XoIGYuCidCCzW1O4SqDs-2" value="&lt;span style=&quot;font-size: 24px&quot;&gt;云端计算平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#ffff88;strokeColor=#36393d;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
+        <mxCell id="XoIGYuCidCCzW1O4SqDs-2" value="&lt;span style=&quot;font-size: 24px&quot;&gt;云端计算平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#ffff88;strokeColor=#36393d;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="3489" y="1471" width="416" height="259" as="geometry" />
         </mxCell>
         <mxCell id="XoIGYuCidCCzW1O4SqDs-12" value="数据归一化处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=19;" parent="1" vertex="1">
