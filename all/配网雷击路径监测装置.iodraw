@@ -574,8 +574,7 @@
             <mxPoint x="3137.882381663603" y="2296.470588235294" as="targetPoint" />
             <mxPoint x="2867" y="2296.9999999999995" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="2987" y="2176" />
-              <mxPoint x="2987" y="2296" />
+              <mxPoint x="2930" y="2296" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -758,12 +757,6 @@
         </mxCell>
         <mxCell id="iP0dVRmfsCetSsg4dM-E-59" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;顶端全视野工业相机&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="2696" y="2143" width="233.5" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="iP0dVRmfsCetSsg4dM-E-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF33FF;strokeWidth=3;startArrow=classic;startFill=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3132.818181818182" y="2297.3333333333335" as="targetPoint" />
-            <mxPoint x="2936.25" y="2297" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="iP0dVRmfsCetSsg4dM-E-67" value="&lt;span style=&quot;font-size: 24px&quot;&gt;云端计算平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1981" y="699" width="416" height="259" as="geometry" />
