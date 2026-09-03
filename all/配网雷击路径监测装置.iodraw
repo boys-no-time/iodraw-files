@@ -569,7 +569,7 @@
         <mxCell id="iP0dVRmfsCetSsg4dM-E-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 24px; background-color: initial;&quot;&gt;核心计算平台&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#cdeb8b;strokeColor=#36393d;dashed=1;align=right;" parent="1" vertex="1">
           <mxGeometry x="3135" y="2170" width="434" height="279" as="geometry" />
         </mxCell>
-        <mxCell id="iP0dVRmfsCetSsg4dM-E-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;startArrow=openThin;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#FF66FF;" parent="1" source="iP0dVRmfsCetSsg4dM-E-59" edge="1">
+        <mxCell id="iP0dVRmfsCetSsg4dM-E-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;startArrow=openThin;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#d79b00;fillColor=#ffcd28;gradientColor=#ffa500;" parent="1" source="iP0dVRmfsCetSsg4dM-E-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3137.882381663603" y="2296.470588235294" as="targetPoint" />
             <mxPoint x="2867" y="2296.9999999999995" as="sourcePoint" />
@@ -820,7 +820,7 @@
         <mxCell id="51KidM1d5CMK9AAgeeU7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.978;entryY=0.453;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="XoIGYuCidCCzW1O4SqDs-17" target="XoIGYuCidCCzW1O4SqDs-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="51KidM1d5CMK9AAgeeU7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d0cee2;strokeColor=#56517e;strokeWidth=3;curved=0;" edge="1" parent="1" source="51KidM1d5CMK9AAgeeU7-5" target="iP0dVRmfsCetSsg4dM-E-58">
+        <mxCell id="51KidM1d5CMK9AAgeeU7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;curved=0;gradientColor=#7ea6e0;" edge="1" parent="1" source="51KidM1d5CMK9AAgeeU7-5" target="iP0dVRmfsCetSsg4dM-E-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="51KidM1d5CMK9AAgeeU7-5" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;顶端全视野工业相机&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;" vertex="1" parent="1">
